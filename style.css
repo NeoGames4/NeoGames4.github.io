@@ -31,3 +31,11 @@ body h1 {
 	border: 2px solid #9f9f9f;
 	transform: translateY(2px);
 }
+
+footer {
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-size: 12px;
+}
