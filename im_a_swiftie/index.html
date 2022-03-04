@@ -97,10 +97,11 @@
 						</tbody>
 					</table>
 				</div>
-				<button id="verify">VERIFY</button>
+				<button id="verify" onclick="verify()">VERIFY</button>
 			</div>
 		</div>
 		<script>
+			var selected = "";
 			function clicked() {
 				var taycaptcha = document.getElementById('taycaptcha-window');
 				if(taycaptcha.style.display == 'block') {
@@ -117,12 +118,17 @@
 					fetch(folder + '/info.json')
 						.then(response => { return response.json(); })
 						.then(data => {
-							document.getElementById('instructions-description').innerHTML = data.title + '<br><strong style="font-size: 28px; font-weight: 900;">' + data.object + '</strong>'
+							document.getElementById('instructions-description').innerHTML = data.title + '<br><strong style="font-size: 28px; font-weight: 900;">' + data.object + '</strong>';
+							selected = data.selected;
 					});
 					taycaptcha.style.display = 'block';
 					document.getElementById('recaptcha-checkbox-border').style.display = 'none';
 					document.getElementById('recaptcha-checkbox-spinner').style.display = 'block';
 				}
+			}
+
+			function verify() {
+				alert('Verify');
 			}
 		</script>
 	</body>
