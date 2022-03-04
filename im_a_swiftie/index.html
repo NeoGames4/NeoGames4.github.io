@@ -113,12 +113,12 @@
 					for(let i = 0; i<9; i++) { // images [0;8]
 						document.getElementById('img' + (i+1)).src = folder + '/' + i + '.png';
 					}
-					var info;
 					document.getElementById('instructions-description').innerHTML = 'title text<br><strong style="font-size: 28px; font-weight: 900;">text</strong>';
 					fetch(folder + '/info.json')
-						.then(response => response.text())
-						.then(text => info = JSON.parse(text));
-					document.getElementById('instructions-description').innerHTML = info.title + '<br><strong style="font-size: 28px; font-weight: 900;">' + info.object + '</strong>'
+						.then(response => { return response.json(); })
+						.then(data => {
+							document.getElementById('instructions-description').innerHTML = data.title + '<br><strong style="font-size: 28px; font-weight: 900;">' + data.object + '</strong>'
+					});
 					taycaptcha.style.display = 'block';
 					document.getElementById('recaptcha-checkbox-border').style.display = 'none';
 					document.getElementById('recaptcha-checkbox-spinner').style.display = 'block';
