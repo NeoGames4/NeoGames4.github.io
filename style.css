@@ -6,6 +6,12 @@ body {
 	font-size: 24px;
 }
 
+body a {
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 24px;
+}
+
 body h1 {
 	padding-top: 5em;
 }
@@ -40,10 +46,14 @@ footer {
 	font-size: 12px;
 }
 
-footer a {
+footer div {
+	display: block;
+	margin-top: 2em;
+}
+
+footer div a {
 	color: gray;
 	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	font-size: 12px;
-	padding-top: 2em;
 }
