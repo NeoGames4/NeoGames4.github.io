@@ -129,7 +129,7 @@
 			}
 
 			function toggle(index) {
-				var component = document.getElementById('img' + (index+1));
+				var component = document.getElementById('img' + index);
 				if(component.style.opacity == 1) component.style.opacity = 0.5;
 				else component.style.opacity = 1;
 			}
@@ -137,9 +137,7 @@
 			function verify() {
 					for(let i = 0; i<9; i++) { // images [0;8]
 						var component = document.getElementById('img' + (i+1));
-						if(component.style.opacity == 1 && !selected.includes((i+1)));
-						else if(selected.includes((i+1)));
-						else {
+						if((component.style.opacity == 1 && selected.includes((i+1))) || (component.style.opacity != 1 && !selected.includes(i+1))) {
 							alert('Failed verification process!');
 							return;
 						}
