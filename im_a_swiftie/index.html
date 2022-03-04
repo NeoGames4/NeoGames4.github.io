@@ -109,6 +109,10 @@
 					document.getElementById('recaptcha-checkbox-border').style.display = 'block';
 					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';
 				} else {
+					if(document.getElementById('name').value.length < 1) {
+						document.getElementById('name').style.border: '3px solid #cc2222';
+						return;
+					}
 					//var folder = "images/" + Math.ceil(Math.random() * 5); // image selection (currently 5 versions only, [1;5])
 					var folder = 'images/1';
 					for(let i = 0; i<9; i++) { // images [0;8]
@@ -130,8 +134,13 @@
 
 			function toggle(index) {
 				var component = document.getElementById('img' + index);
-				if(component.style.opacity == 1) component.style.opacity = 0.5;
-				else component.style.opacity = 1;
+				if(component.style.opacity == 1) {
+					component.style.opacity = 0.2;
+					component.style.border = '2px solid #1a73e8';
+				} else {
+					component.style.opacity = 1;
+					component.style.border = '0px solid #fff';
+				}
 			}
 
 			function verify() {
