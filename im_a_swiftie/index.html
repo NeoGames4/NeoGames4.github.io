@@ -45,51 +45,51 @@
 						<tbody>
 							<tr>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg1">
 										<img id="img1" onclick="toggle(1)" src="images/null.png">
 									</div>
 								</td>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg2">
 										<img id="img2" onclick="toggle(2)" src="images/null.png">
 									</div>
 								</td>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg3">
 										<img id="img3" onclick="toggle(3)" src="images/null.png">
 									</div>
 								</td>
 							</tr>
 							<tr>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg4">
 										<img id="img4" onclick="toggle(4)" src="images/null.png">
 									</div>
 								</td>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg5">
 										<img id="img5" onclick="toggle(5)" src="images/null.png">
 									</div>
 								</td>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg6">
 										<img id="img6" onclick="toggle(6)" src="images/null.png">
 									</div>
 								</td>
 							</tr>
 							<tr>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg7">
 										<img id="img7" onclick="toggle(7)" src="images/null.png">
 									</div>
 								</td>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg8">
 										<img id="img8" onclick="toggle(8)" src="images/null.png">
 									</div>
 								</td>
 								<td>
-									<div id="image">
+									<div class="image" id="divimg9">
 										<img id="img9" onclick="toggle(9)" src="images/null.png">
 									</div>
 								</td>
@@ -136,10 +136,10 @@
 				var component = document.getElementById('img' + index);
 				if(component.style.opacity == 1) {
 					component.style.opacity = 0.2;
-					component.style.border = '2px solid #1a73e8';
+					document.getElementById('divimg' + index).style.border = '2px solid #1a73e8';
 				} else {
 					component.style.opacity = 1;
-					component.style.border = '0px solid #fff';
+					document.getElementById('divimg' + index).style.border = '0px solid #fff';
 				}
 			}
 
@@ -298,7 +298,7 @@
 			text-align: center;
 		}
 
-		#image {
+		.image {
 			width: 126px;
 			height: 126px;
 			overflow: hidden;
