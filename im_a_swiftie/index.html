@@ -135,11 +135,13 @@
 			function toggle(index) {
 				var component = document.getElementById('img' + index);
 				if(component.style.opacity == 1) {
-					component.style.opacity = 0.2;
-					document.getElementById('divimg' + index).style.border = '2px solid #1a73e8';
+					component.style.opacity = 0.9;
+					document.getElementById('divimg' + index).style.border = '3px solid #1a73e8';
+					document.getElementById('divimg' + index).style.transform = 'scale(0.8)';
 				} else {
 					component.style.opacity = 1;
 					document.getElementById('divimg' + index).style.border = '0px solid #fff';
+					document.getElementById('divimg' + index).style.transform = 'scale(1.0)';
 				}
 			}
 
