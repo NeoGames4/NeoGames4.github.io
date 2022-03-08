@@ -1,28 +1,388 @@
 <!DOCTYPE html>
 <html>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" href="style.css">
-	<link rel="preconnect" href="https://fonts.googleapis.com"> 
-	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
-	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+	<head>
+		<title>I'm A Swiftie</title>
+		<link rel="preconnect" href="https://fonts.googleapis.com"> 
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
+		<link href="https://fonts.googleapis.com/css2?family=IM+Fell+DW+Pica:ital@1&family=Roboto&display=swap" rel="stylesheet">
+	</head>
+
 	<body>
-		<h1>Welcome</h1>
-		<p>Please select a destination below</p>
-		<nav class="navbar">
-			<button type="button" onclick="location.href='./avatar_fandom_de_discord-bot.html'" class="button">Avatar FANDOM DE Discord-Bot</button>
-			<button type="button" onclick="location.href='./game_of_life.html'" class="button">Conway's Game of Life</button>
-			<button type="button" onclick="location.href='./tetris.html'" class="button">Tetris</button>
-		</nav>
-		<nav class="navbar">
-			<button type="button" onclick="location.href='./reed_solomon_polynomial_division_calculator.html'" class="button">Reed Solomon Polynomial Division Calculator</button>
-			<button type="button" onclick="location.href='./im_a_swiftie/index.html'" class="button">I'm A Swiftie</button>
-		</nav>
-	</body>
-	<footer>
-		<div>
-			<a href="https://twitter.com/neogames4__">My Twitter</a> - 
-			<a href="imprint.html">Imprint</a>
+		<h1>– I'm A Swiftie –</h1>
+		<h2>Please enter your name and confirm your swiftieness:</h2>
+		<textarea id="name" name="Name" rows="1" maxlength="40" autofocus placeholder="Your name" type="text"></textarea>
+		<div class="imaswiftie">
+			<!DOCTYPE html>
+<html dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>tayCAPTCHA</title>
+<style type="text/css">
+  @font-face {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    src: url(//fonts.gstatic.com/s/roboto/v18/KFOlCnqEu92Fr1MmYUtfBBc4AMP6lQ.woff2) format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+  }
+</style>
+<link rel="stylesheet" type="text/css" href="https://www.gstatic.com/recaptcha/releases/_exWVY_hlNJJl2Abm8pI9i1L/styles__ltr.css"><style type="text/css"></style>
+</head>
+    <body><div id="rc-anchor-alert" class="rc-anchor-alert"></div>
+    <div id="rc-anchor-container" class="rc-anchor rc-anchor-normal rc-anchor-light"><div id="recaptcha-accessible-status" class="rc-anchor-aria-status" aria-hidden="true">Taycaptcha requires verification.</div><div class="rc-anchor-error-msg-container" style="display:none"><span class="rc-anchor-error-msg" aria-hidden="true"></span></div><div class="rc-anchor-content"><div class="rc-inline-block"><div onclick="clicked()" class="rc-anchor-center-container"><div class="rc-anchor-center-item rc-anchor-checkbox-holder"><span class="recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox" role="checkbox" aria-checked="false" id="recaptcha-anchor" tabindex="0" dir="ltr" aria-labelledby="recaptcha-anchor-label"><div class="recaptcha-checkbox-border" role="presentation"></div><div class="recaptcha-checkbox-borderAnimation" role="presentation"></div><div class="recaptcha-checkbox-spinner" role="presentation"><div class="recaptcha-checkbox-spinner-overlay"></div></div><div class="recaptcha-checkbox-checkmark" role="presentation"></div></span></div></div></div><div class="rc-inline-block"><div class="rc-anchor-center-container"><label class="rc-anchor-center-item rc-anchor-checkbox-label" aria-hidden="true" role="presentation" id="recaptcha-anchor-label"><span aria-live="polite" aria-labelledby="recaptcha-accessible-status"></span>I'm a swiftie</label></div></div></div><div class="rc-anchor-normal-footer"><div class="rc-anchor-logo-portrait" aria-hidden="true" role="presentation"><div class="rc-anchor-logo-img rc-anchor-logo-img-portrait" style="background-image: url('taycaptcha-logo.png');"></div><div class="rc-anchor-logo-text">tayCAPTCHA</div></div><div class="rc-anchor-pt"><a href="https://www.google.com/intl/de/policies/privacy/" target="_blank">Privacy</a><span aria-hidden="true" role="presentation"> - </span><a href="https://www.google.com/intl/de/policies/terms/" target="_blank">Terms</a></div></div></div></body>
+</html>
 		</div>
-	</footer>
+		<button onclick="clicked()">Confirm</button>
+		<div id="taycaptcha-window">
+			<div id="payload">
+				<div id="instructions">
+					<div id="instructions-description">
+						Select all images with<br>
+						<strong style="font-size: 28px; font-weight: 900;">object</strong>
+					</div>
+				</div>
+				<div id="image-selection">
+					<table id="image-table">
+						<tbody>
+							<tr>
+								<td>
+									<div class="image" id="divimg1">
+										<img id="img1" onclick="toggle(1)" src="images/null.png">
+									</div>
+								</td>
+								<td>
+									<div class="image" id="divimg2">
+										<img id="img2" onclick="toggle(2)" src="images/null.png">
+									</div>
+								</td>
+								<td>
+									<div class="image" id="divimg3">
+										<img id="img3" onclick="toggle(3)" src="images/null.png">
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<div class="image" id="divimg4">
+										<img id="img4" onclick="toggle(4)" src="images/null.png">
+									</div>
+								</td>
+								<td>
+									<div class="image" id="divimg5">
+										<img id="img5" onclick="toggle(5)" src="images/null.png">
+									</div>
+								</td>
+								<td>
+									<div class="image" id="divimg6">
+										<img id="img6" onclick="toggle(6)" src="images/null.png">
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<div class="image" id="divimg7">
+										<img id="img7" onclick="toggle(7)" src="images/null.png">
+									</div>
+								</td>
+								<td>
+									<div class="image" id="divimg8">
+										<img id="img8" onclick="toggle(8)" src="images/null.png">
+									</div>
+								</td>
+								<td>
+									<div class="image" id="divimg9">
+										<img id="img9" onclick="toggle(9)" src="images/null.png">
+									</div>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+				<button id="verify" onclick="verify()">VERIFY</button>
+			</div>
+		</div>
+		<div id="result">
+			<canvas id="result_canvas" width="120px" height="120px"></canvas>
+		</div>
+		<script>
+			var selected = "";
+			function clicked() {
+				var taycaptcha = document.getElementById('taycaptcha-window');
+				if(taycaptcha.style.display == 'block') {
+					taycaptcha.style.display = 'none';
+					document.getElementById('recaptcha-checkbox-border').style.display = 'block';
+					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';
+				} else {
+					if(document.getElementById('name').value.length < 1) {
+						document.getElementById('name').style.border = '3px solid #cc2222';
+						return;
+					} else {
+						document.getElementById('name').style.border = '1px solid #d3d3d3';
+					}
+					//var folder = "images/" + Math.ceil(Math.random() * 5); // image selection (currently 5 versions only, [1;5])
+					var folder = 'images/1';
+					for(let i = 0; i<9; i++) { // images [0;8]
+						document.getElementById('img' + (i+1)).src = folder + '/' + i + '.png';
+						document.getElementById('img' + (i+1)).style.opacity = 1;
+					}
+					document.getElementById('instructions-description').innerHTML = 'title text<br><strong style="font-size: 28px; font-weight: 900;">text</strong>';
+					fetch(folder + '/info.json')
+						.then(response => { return response.json(); })
+						.then(data => {
+							document.getElementById('instructions-description').innerHTML = data.title + '<br><strong style="font-size: 28px; font-weight: 900;">' + data.object + '</strong>';
+							selected = data.selected;
+					});
+					taycaptcha.style.display = 'block';
+					document.getElementById('recaptcha-checkbox-border').style.display = 'none';
+					document.getElementById('recaptcha-checkbox-spinner').style.display = 'block';
+				}
+			}
+
+			function toggle(index) {
+				var component = document.getElementById('img' + index);
+				if(component.style.opacity == 1) {
+					component.style.opacity = 0.9;
+					document.getElementById('divimg' + index).style.borderTop = '3px solid #1a73e8';
+					document.getElementById('divimg' + index).style.transform = 'scale(0.8)';
+				} else {
+					component.style.opacity = 1;
+					document.getElementById('divimg' + index).style.borderTop = '0px solid #fff';
+					document.getElementById('divimg' + index).style.transform = 'scale(1.0)';
+				}
+			}
+
+			function verify() {
+					for(let i = 0; i<9; i++) { // images [0;8]
+						var component = document.getElementById('img' + (i+1));
+						if((component.style.opacity == 1 && selected.includes((i+1))) || (component.style.opacity != 1 && !selected.includes(i+1))) {
+							alert('Failed verification process!');
+							return;
+						}
+					}
+					alert('Verified successfully!');
+					document.getElementById('result').style.display = 'block';
+					var graphics = document.getElementById('result_canvas').getContext('2d');
+					graphics.drawImage(document.getElementById('result_certificate'), 0, 0);
+					graphics.font = '30px Arial';
+					graphics.fillStyle = '#fff';
+					graphics.fillText('Some text', 20, 50);
+			}
+		</script>
+	</body>
+
+	<a class="footer-text" href="information.html">Imprint & Information</a>
+
+	<style>
+		body {
+			background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask2267%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='rgba(254%2c 246%2c 255%2c 1)'%3e%3c/rect%3e%3cuse xlink:href='%23SvgjsSymbol2274' x='0' y='0'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsSymbol2274' x='720' y='0'%3e%3c/use%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask2267'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cpath d='M-1 0 a1 1 0 1 0 2 0 a1 1 0 1 0 -2 0z' id='SvgjsPath2268'%3e%3c/path%3e%3cpath d='M-3 0 a3 3 0 1 0 6 0 a3 3 0 1 0 -6 0z' id='SvgjsPath2272'%3e%3c/path%3e%3cpath d='M-5 0 a5 5 0 1 0 10 0 a5 5 0 1 0 -10 0z' id='SvgjsPath2269'%3e%3c/path%3e%3cpath d='M2 -2 L-2 2z' id='SvgjsPath2273'%3e%3c/path%3e%3cpath d='M6 -6 L-6 6z' id='SvgjsPath2271'%3e%3c/path%3e%3cpath d='M30 -30 L-30 30z' id='SvgjsPath2270'%3e%3c/path%3e%3c/defs%3e%3csymbol id='SvgjsSymbol2274'%3e%3cuse xlink:href='%23SvgjsPath2268' x='30' y='30' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='30' y='90' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2270' x='30' y='150' stroke='rgba(244%2c 234%2c 249%2c 1)' stroke-width='3'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='30' y='210' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='30' y='270' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='30' y='330' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2272' x='30' y='390' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='30' y='450' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='30' y='510' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='30' y='570' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='90' y='30' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='90' y='90' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='90' y='150' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='90' y='210' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2270' x='90' y='270' stroke='rgba(239%2c 230%2c 238%2c 1)' stroke-width='3'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2272' x='90' y='330' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='90' y='390' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='90' y='450' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='90' y='510' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='90' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='150' y='30' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='150' y='90' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='150' y='150' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='150' y='210' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='150' y='270' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='150' y='330' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='150' y='390' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='150' y='450' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='150' y='510' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='150' y='570' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='210' y='30' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2272' x='210' y='90' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='210' y='150' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='210' y='210' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='210' y='270' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2272' x='210' y='330' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='210' y='390' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='210' y='450' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='210' y='510' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='210' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='270' y='30' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='270' y='90' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='270' y='150' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='270' y='210' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='270' y='270' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='270' y='330' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='270' y='390' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='270' y='450' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='270' y='510' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2272' x='270' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='330' y='30' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='330' y='90' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='330' y='150' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='330' y='210' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='330' y='270' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='330' y='330' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='330' y='390' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2270' x='330' y='450' stroke='rgba(247%2c 225%2c 246%2c 1)' stroke-width='3'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='330' y='510' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='330' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='390' y='30' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='390' y='90' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='390' y='150' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='390' y='210' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='390' y='270' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='390' y='330' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='390' y='390' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='390' y='450' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='390' y='510' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2270' x='390' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)' stroke-width='3'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='450' y='30' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='450' y='90' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='450' y='150' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2272' x='450' y='210' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='450' y='270' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='450' y='330' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='450' y='390' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='450' y='450' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='450' y='510' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='450' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='510' y='30' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='510' y='90' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='510' y='150' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='510' y='210' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='510' y='270' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='510' y='330' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='510' y='390' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='510' y='450' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='510' y='510' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='510' y='570' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='570' y='30' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='570' y='90' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='570' y='150' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='570' y='210' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='570' y='270' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='570' y='330' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='570' y='390' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='570' y='450' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='570' y='510' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='570' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='630' y='30' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='630' y='90' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='630' y='150' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='630' y='210' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='630' y='270' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='630' y='330' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='630' y='390' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='630' y='450' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='630' y='510' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='630' y='570' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2273' x='690' y='30' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='690' y='90' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='690' y='150' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='690' y='210' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2270' x='690' y='270' stroke='rgba(244%2c 234%2c 249%2c 1)' stroke-width='3'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='690' y='330' stroke='rgba(244%2c 234%2c 249%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2271' x='690' y='390' stroke='rgba(247%2c 225%2c 246%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='690' y='450' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2268' x='690' y='510' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3cuse xlink:href='%23SvgjsPath2269' x='690' y='570' stroke='rgba(239%2c 230%2c 238%2c 1)'%3e%3c/use%3e%3c/symbol%3e%3c/svg%3e");
+		}
+
+		textarea {
+			resize: none;
+			border: 1px solid #d3d3d3;
+			margin-left: auto;
+			margin-right: auto;
+			margin-bottom: 7px;
+			padding-left: 5px;
+			background-color: #fff;
+			color: #666;
+			font-family: 'Roboto',sans-serif;
+			width: 295px;
+			font-size: 12px;
+			line-height: 17px;
+			font-weight: 800;
+			border-radius: 3px;
+			display: block;
+		}
+
+		.imaswiftie {
+			margin-left: auto;
+			margin-right: auto;
+			display: flex;
+			justify-content: center;
+		}
+
+		h1 {
+			font-family: 'IM Fell DW Pica',serif;
+			text-align: center;
+			font-size: 36px;
+			font-weight: 400;
+			color: #666;
+			display: block;
+		}
+
+		h2 {
+			font-family: 'IM Fell DW Pica',serif;
+			text-align: center;
+			font-size: 24px;
+			font-weight: 400;
+			color: #666;
+		}
+
+		.footer-text {
+			font-family: 'IM Fell DW Pica',serif;
+			text-align: center;
+			margin-left: auto;
+			margin-right: auto;
+			font-size: 12px;
+			font-weight: 400;
+			color: #666;
+			position: absolute;
+			bottom: 5px;
+			right: 10px;
+			text-decoration: none;
+			display: block;
+		}
+
+		#taycaptcha-window {
+			background-color: #fff;
+			border: 1px solid #d3d3d3;
+			border-radius: 3px;
+			width: 400px;
+			height: 582px;
+			z-index: 9000 !important;
+			position: relative;
+			margin-top: -70px;
+			margin-left: auto;
+			margin-right: auto;
+			display: none;
+		}
+
+		#payload {
+			width: 386px;
+			height: 560px;
+			margin: 0 7px;
+			padding: 7px 0;
+			display: block;
+		}
+
+		#instructions {
+			width: 100%;
+			height: 113px;
+			margin-bottom: 7px;
+			position: relative;
+			display: block;
+			background-color: #1a73e8;
+		}
+
+		#instructions-description {
+			font-size: 16px;
+			padding: 24px;
+			position: relative;
+			margin-bottom: 6px;
+			display: block;
+			font-family: 'Roboto',helvetica,arial,sans-serif;
+			font-weight: 400;
+			height: 66px;
+			color: #fff;
+		}
+
+		#image-selection {
+			width: 100%;
+			height: 398px;
+			margin-bottom: 7px;
+		}
+
+		#image-table {
+			width: 100%;
+			height: 100%;
+			border-collapse: separate;
+			border-spacing: 0;
+			transition: all 1s ease;
+			border-top-color: gray;
+			text-align: center;
+			margin-left: -2px;
+			display: table;
+		}
+
+		#result {
+			display: none;
+			width: 120px;
+			height: 120px;
+			position: relative;
+			padding: 24px;
+			margin-left: auto;
+			margin-right: auto;
+			background-color: #fff;
+		}
+
+		tr {
+			display: table-row;
+			vertical-align: inherit;
+			border-top-color: inherit;
+			border-right-color: inherit;
+			border-bottom-color: inherit;
+			border-left-color: inherit;
+		}
+
+		td {
+			display: table-cell;
+			padding: 2px;
+			vertical-align: inherit;
+			margin: 0;
+			text-align: center;
+		}
+
+		.image {
+			box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			width: 126px;
+			height: 126px;
+			overflow: hidden;
+			position: relative;
+			transition: 0.1s ease;
+			transform: scale(1.0);
+			display: block;
+		}
+
+		#verify {
+			background-color: #1a73e8;
+			color: #fff;
+			border: none;
+			border-radius: 0;
+			font-family: 'Roboto',helvetica,arial,sans-serif;
+			font-size: 15px;
+			margin-right: 0;
+			margin-bottom: 0;
+			height: 42px;
+			font-weight: 400;
+		}
+
+		#verify:hover {
+			font-size: 15px;
+		}
+
+		#verify:active {
+			color: #fff;
+			border: none;
+		}
+
+		button {
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
+			width: 120px;
+			font-size: 15px;
+			padding-top: 5px;
+			padding-botton: 5px;
+			margin-top: 7px;
+			font-family: 'IM Fell DW Pica',serif;
+			color: #666;
+			text-align: center;
+			font-weight: 400;
+			background: #fff;
+			border: 1px solid #d3d3d3;
+			border-radius: 3px;
+			transition: 0.2s;
+		}
+
+		button:hover {
+			font-size: 17px;
+		}
+
+		button:active {
+			color: #444;
+			border: 2px solid #d3d3d3;
+		}
+	</style>
 </html>
