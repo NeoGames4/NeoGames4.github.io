@@ -100,6 +100,9 @@
 				<button id="verify" onclick="verify()">VERIFY</button>
 			</div>
 		</div>
+		<div id="result">
+			<canvas id="result_canvas" width="120px" height="120px"></canvas>
+		</div>
 		<script>
 			var selected = "";
 			function clicked() {
@@ -156,6 +159,12 @@
 						}
 					}
 					alert('Verified successfully!');
+					document.getElementById('result').style.display = 'block';
+					var graphics = document.getElementById('result_canvas').getContext('2d');
+					graphics.drawImage(document.getElementById('result_certificate'), 0, 0);
+					graphics.font = '30px Arial';
+					graphics.fillStyle = '#fff';
+					graphics.fillText('Some text', 20, 50);
 			}
 		</script>
 	</body>
@@ -283,6 +292,17 @@
 			text-align: center;
 			margin-left: -2px;
 			display: table;
+		}
+
+		#result {
+			display: none;
+			width: 120px;
+			height: 120px;
+			position: relative;
+			padding: 24px;
+			margin-left: auto;
+			margin-right: auto;
+			background-color: #fff;
 		}
 
 		tr {
