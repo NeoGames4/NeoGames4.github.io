@@ -13,7 +13,7 @@
 		<textarea id="name" name="Name" rows="1" maxlength="40" autofocus placeholder="Your name" type="text"></textarea>
 		<div class="imaswiftie">
 			<!DOCTYPE html>
-<html dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<html id="taycaptcha-html" dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>tayCAPTCHA</title>
 <style type="text/css">
@@ -152,9 +152,6 @@
 			}
 
 			function verify() {
-					document.getElementById('taycaptcha-window').style.display = 'none';
-					document.getElementById('recaptcha-checkbox-border').style.display = 'block';
-					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';
 					for(let i = 0; i<9; i++) { // images [0;8]
 						var component = document.getElementById('img' + (i+1));
 						if((component.style.opacity == 1 && selected.includes((i+1))) || (component.style.opacity != 1 && !selected.includes(i+1))) {
@@ -162,8 +159,9 @@
 							return;
 						}
 					}
+					document.getElementById('taycaptcha-window').style.display = 'none';
 					alert('Verified successfully!');
-					document.getElementById('rc-anchor-alert').style.display = 'none';
+					document.getElementById('taycaptcha-html').style.display = 'none';
 					document.getElementById('confirm').style.display = 'none';
 					document.getElementById('reload').style.display = 'block';
 					document.getElementById('result').style.display = 'block';
