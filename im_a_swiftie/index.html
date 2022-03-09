@@ -31,7 +31,8 @@
     <div id="rc-anchor-container" class="rc-anchor rc-anchor-normal rc-anchor-light"><div id="recaptcha-accessible-status" class="rc-anchor-aria-status" aria-hidden="true">Taycaptcha requires verification.</div><div class="rc-anchor-error-msg-container" style="display:none"><span class="rc-anchor-error-msg" aria-hidden="true"></span></div><div class="rc-anchor-content"><div class="rc-inline-block"><div onclick="clicked()" class="rc-anchor-center-container"><div class="rc-anchor-center-item rc-anchor-checkbox-holder"><span class="recaptcha-checkbox goog-inline-block recaptcha-checkbox-unchecked rc-anchor-checkbox" role="checkbox" aria-checked="false" id="recaptcha-anchor" tabindex="0" dir="ltr" aria-labelledby="recaptcha-anchor-label"><div class="recaptcha-checkbox-border" role="presentation"></div><div class="recaptcha-checkbox-borderAnimation" role="presentation"></div><div class="recaptcha-checkbox-spinner" role="presentation"><div class="recaptcha-checkbox-spinner-overlay"></div></div><div class="recaptcha-checkbox-checkmark" role="presentation"></div></span></div></div></div><div class="rc-inline-block"><div class="rc-anchor-center-container"><label class="rc-anchor-center-item rc-anchor-checkbox-label" aria-hidden="true" role="presentation" id="recaptcha-anchor-label"><span aria-live="polite" aria-labelledby="recaptcha-accessible-status"></span>I'm a swiftie</label></div></div></div><div class="rc-anchor-normal-footer"><div class="rc-anchor-logo-portrait" aria-hidden="true" role="presentation"><div class="rc-anchor-logo-img rc-anchor-logo-img-portrait" style="background-image: url('taycaptcha-logo.png');"></div><div class="rc-anchor-logo-text">tayCAPTCHA</div></div><div class="rc-anchor-pt"><a href="https://www.google.com/intl/de/policies/privacy/" target="_blank">Privacy</a><span aria-hidden="true" role="presentation"> - </span><a href="https://www.google.com/intl/de/policies/terms/" target="_blank">Terms</a></div></div></div></body>
 </html>
 		</div>
-		<button onclick="clicked()">Confirm</button>
+		<button id="confirm" onclick="clicked()">Confirm</button>
+		<button id="reload" onclick="window.location.reload()" style="display: none;">Do it again</button>
 		<div id="taycaptcha-window">
 			<div id="payload">
 				<div id="instructions">
@@ -151,6 +152,9 @@
 			}
 
 			function verify() {
+					document.getElementById('taycaptcha-window').style.display = 'none';
+					document.getElementById('recaptcha-checkbox-border').style.display = 'block';
+					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';
 					for(let i = 0; i<9; i++) { // images [0;8]
 						var component = document.getElementById('img' + (i+1));
 						if((component.style.opacity == 1 && selected.includes((i+1))) || (component.style.opacity != 1 && !selected.includes(i+1))) {
@@ -159,6 +163,9 @@
 						}
 					}
 					alert('Verified successfully!');
+					document.getElementById('rc-anchor-alert').style.display = 'none';
+					document.getElementById('confirm').style.display = 'none';
+					document.getElementById('reload').style.display = 'block';
 					document.getElementById('result').style.display = 'block';
 					var graphics = document.getElementById('result_canvas').getContext('2d');
 					graphics.drawImage(document.getElementById('result_certificate'), 0, 0);
