@@ -9,7 +9,7 @@
 
 	<body>
 		<h1>– I'm A Swiftie –</h1>
-		<h2>Please enter your name and confirm your swiftieness:</h2>
+		<h2 id="subheader">Please enter your name and confirm your swiftieness:</h2>
 		<textarea id="name" name="Name" rows="1" maxlength="40" autofocus placeholder="Your name" type="text"></textarea>
 		<div class="imaswiftie" id="taycaptcha-html">
 			<!DOCTYPE html>
@@ -160,8 +160,9 @@
 						}
 					}
 					document.getElementById('taycaptcha-window').style.display = 'none';
-					alert('Verified successfully!');
-					document.getElementById('taycaptcha-html').innerHTML = '<p>Verified successfully!</p>';
+					document.getElementById('taycaptcha-html').innerHTML = '<h2>Verified successfully!</h2>';
+					document.getElementById('subheader').style.display = 'none';
+					document.getElementById('name').style.display = 'none';
 					document.getElementById('confirm').style.display = 'none';
 					document.getElementById('reload').style.display = 'block';
 					document.getElementById('result').style.display = 'block';
@@ -305,6 +306,7 @@
 			height: 120px;
 			position: relative;
 			padding: 24px;
+			margin-top: 10px;
 			margin-left: auto;
 			margin-right: auto;
 			background-color: #fff;
