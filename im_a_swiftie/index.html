@@ -110,12 +110,12 @@
 			function clicked() {
 				var taycaptcha = document.getElementById('taycaptcha-window');
 				if(taycaptcha.style.display == 'block') {
-					taycaptcha.style.display = 'none';
 					for(let i = 0; i<9; i++) {
 						document.getElementById('img' + index).style.opacity = 1;
 						document.getElementById('divimg' + index).style.borderTop = '0px solid #fff';
 						document.getElementById('divimg' + index).style.transform = 'scale(1.0)';
 					}
+					taycaptcha.style.display = 'none';
 					document.getElementById('recaptcha-checkbox-border').style.display = 'block';
 					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';
 				} else {
@@ -174,9 +174,10 @@
 					document.getElementById('result').style.display = 'block';
 					var graphics = document.getElementById('result_canvas').getContext('2d');
 					graphics.drawImage(document.getElementById('result_certificate'), 0, 0);
-					graphics.font = '30px Arial';
+					var name = document.getElementById('name').value;
+					graphics.font = Math.parseInt(22 + (22 - name.length/1.4), 10) + 'px Arial';
 					graphics.fillStyle = '#fff';
-					graphics.fillText('Some text', 20, 50);
+					graphics.fillText(name, 512 - (graphics.measureText(name)/2), 296);
 			}
 		</script>
 	</body>
