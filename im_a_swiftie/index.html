@@ -177,7 +177,7 @@
 					var name = document.getElementById('name').value;
 					graphics.font = parseInt(22 + (22 - name.length/1.4), 10) + 'px Arial';
 					graphics.fillStyle = '#fff';
-					graphics.fillText(name, 512 - (graphics.measureText(name)/2), 296);
+					graphics.fillText(name, 512 - parseInt(graphics.measureText(name).width/2, 10), 296);
 			}
 		</script>
 	</body>
