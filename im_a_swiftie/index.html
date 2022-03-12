@@ -11,6 +11,7 @@
 		<h1>– I'm A Swiftie –</h1>
 		<h2 id="subheader">Please enter your name and confirm your swiftieness:</h2>
 		<textarea id="name" name="Name" rows="1" maxlength="40" autofocus placeholder="Your name" type="text"></textarea>
+		<img id="result_certificate" src="certificate.jpg" style="display: none">
 		<div class="imaswiftie" id="taycaptcha-html">
 			<!DOCTYPE html>
 <html dir="ltr" lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -102,7 +103,7 @@
 			</div>
 		</div>
 		<div id="result">
-			<canvas id="result_canvas" width="120px" height="120px"></canvas>
+			<canvas id="result_canvas" width="1024px" height="724px"></canvas>
 		</div>
 		<script>
 			var selected = "";
@@ -110,6 +111,11 @@
 				var taycaptcha = document.getElementById('taycaptcha-window');
 				if(taycaptcha.style.display == 'block') {
 					taycaptcha.style.display = 'none';
+					for(let i = 0; i<9 i++) {
+						document.getElementById('img' + index).style.opacity = 1;
+						document.getElementById('divimg' + index).style.borderTop = '0px solid #fff';
+						document.getElementById('divimg' + index).style.transform = 'scale(1.0)';
+					}
 					document.getElementById('recaptcha-checkbox-border').style.display = 'block';
 					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';
 				} else {
@@ -302,8 +308,8 @@
 
 		#result {
 			display: none;
-			width: 120px;
-			height: 120px;
+			width: 1024px;
+			height: 724px;
 			position: relative;
 			padding: 24px;
 			margin-top: 10px;
