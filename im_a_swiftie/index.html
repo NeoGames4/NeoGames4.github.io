@@ -48,51 +48,51 @@
 							<tr>
 								<td>
 									<div class="image" id="divimg1">
-										<img id="img1" onclick="toggle(1)" src="images/null.png">
+										<img id="img1" onclick="toggle(1)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 								<td>
 									<div class="image" id="divimg2">
-										<img id="img2" onclick="toggle(2)" src="images/null.png">
+										<img id="img2" onclick="toggle(2)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 								<td>
 									<div class="image" id="divimg3">
-										<img id="img3" onclick="toggle(3)" src="images/null.png">
+										<img id="img3" onclick="toggle(3)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 							</tr>
 							<tr>
 								<td>
 									<div class="image" id="divimg4">
-										<img id="img4" onclick="toggle(4)" src="images/null.png">
+										<img id="img4" onclick="toggle(4)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 								<td>
 									<div class="image" id="divimg5">
-										<img id="img5" onclick="toggle(5)" src="images/null.png">
+										<img id="img5" onclick="toggle(5)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 								<td>
 									<div class="image" id="divimg6">
-										<img id="img6" onclick="toggle(6)" src="images/null.png">
+										<img id="img6" onclick="toggle(6)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 							</tr>
 							<tr>
 								<td>
 									<div class="image" id="divimg7">
-										<img id="img7" onclick="toggle(7)" src="images/null.png">
+										<img id="img7" onclick="toggle(7)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 								<td>
 									<div class="image" id="divimg8">
-										<img id="img8" onclick="toggle(8)" src="images/null.png">
+										<img id="img8" onclick="toggle(8)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 								<td>
 									<div class="image" id="divimg9">
-										<img id="img9" onclick="toggle(9)" src="images/null.png">
+										<img id="img9" onclick="toggle(9)" src="images/null.png" width="126px" height="126px">
 									</div>
 								</td>
 							</tr>
@@ -125,8 +125,8 @@
 					} else {
 						document.getElementById('name').style.border = '1px solid #d3d3d3';
 					}
-					//var folder = "images/" + Math.ceil(Math.random() * 5); // image selection (currently 5 versions only, [1;5])
-					var folder = 'images/1';
+					var folder = "images/" + Math.ceil(Math.random() * 4); // image selection (currently 5 versions only, [1;5])
+					//var folder = 'images/1';
 					for(let i = 0; i<9; i++) { // images [0;8]
 						document.getElementById('img' + (i+1)).src = folder + '/' + i + '.png';
 						document.getElementById('img' + (i+1)).style.opacity = 1;
@@ -175,7 +175,7 @@
 					var graphics = document.getElementById('result_canvas').getContext('2d');
 					graphics.drawImage(document.getElementById('result_certificate'), 0, 0);
 					var name = document.getElementById('name').value;
-					graphics.font = parseInt(22 + (22 - name.length), 10) + 'px Arial';
+					graphics.font = parseInt(22 + Math.max(22 - name.length * 1.2, -13), 10) + 'px Arial';
 					graphics.fillStyle = '#fff';
 					graphics.fillText(name, 512 - parseInt(graphics.measureText(name).width/2, 10), 296);
 			}
