@@ -173,10 +173,10 @@
 					document.getElementById('reload').style.display = 'block';
 					document.getElementById('result').style.display = 'block';
 					var graphics = document.getElementById('result_canvas').getContext('2d');
-					graphics.drawImage(document.getElementById('result_certificate'), 0, 0);
+					graphics.drawImage(document.getElementById('result_certificate'), 0, 0, 1024, 724);
 					var name = document.getElementById('name').value;
 					graphics.font = parseInt(22 + Math.max(22 - name.length * 1.2, -13), 10) + 'px Arial';
-					graphics.fillStyle = '#fff';
+					graphics.fillStyle = '#7d2929';
 					graphics.fillText(name, 512 - parseInt(graphics.measureText(name).width/2, 10), 296);
 			}
 		</script>
