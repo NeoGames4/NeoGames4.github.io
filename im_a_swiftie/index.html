@@ -111,14 +111,14 @@
 			function clicked() {
 				var taycaptcha = document.getElementById('taycaptcha-window');
 				if(taycaptcha.style.display == 'block') {
-					for(let i = 0; i<9; i++) {
+					/*for(let i = 0; i<9; i++) {
 						document.getElementById('img' + i).style.opacity = 1;
 						document.getElementById('divimg' + i).style.borderTop = '0px solid #fff';
 						document.getElementById('divimg' + i).style.transform = 'scale(1.0)';
 					}
 					taycaptcha.style.display = 'none';
 					document.getElementById('recaptcha-checkbox-border').style.display = 'block';
-					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';
+					document.getElementById('recaptcha-checkbox-spinner').style.display = 'none';*/
 				} else {
 					if(document.getElementById('name').value.length < 1) {
 						document.getElementById('name').style.border = '3px solid #cc2222';
@@ -126,7 +126,7 @@
 					} else {
 						document.getElementById('name').style.border = '1px solid #d3d3d3';
 					}
-					var folder = "images/" + Math.ceil(Math.random() * 4); // image selection (currently 5 versions only, [1;5])
+					var folder = "images/" + Math.ceil(Math.random() * 7); // image selection (currently 7 versions only, [1;7])
 					//var folder = 'images/1';
 					for(let i = 0; i<9; i++) { // images [0;8]
 						document.getElementById('img' + (i+1)).src = folder + '/' + i + '.png';
@@ -179,6 +179,7 @@
 					graphics.font = parseInt(22 + Math.max(22 - name.length * 1.2, -13), 10) + 'px IM Fell DW Pica';
 					graphics.fillStyle = '#7d2929';
 					graphics.fillText(name, 512 - parseInt(graphics.measureText(name).width/2, 10), 296);
+					document.getElementById('result_canvas').style.display = 'none';
 					document.getElementById('result_image').src = document.getElementById('result_canvas').toDataURL('image/jpeg');
 			}
 		</script>
