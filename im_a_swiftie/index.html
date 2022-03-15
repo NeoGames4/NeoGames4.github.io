@@ -103,7 +103,8 @@
 			</div>
 		</div>
 		<div id="result">
-			<canvas id="result_canvas" width="1024px" height="724px"></canvas>
+			<canvas id="result_canvas" width="1024px" height="724px" display="none"></canvas>
+			<img id="result_image">
 		</div>
 		<script>
 			var selected = "";
@@ -178,6 +179,7 @@
 					graphics.font = parseInt(22 + Math.max(22 - name.length * 1.2, -13), 10) + 'px IM Fell DW Pica';
 					graphics.fillStyle = '#7d2929';
 					graphics.fillText(name, 512 - parseInt(graphics.measureText(name).width/2, 10), 296);
+					document.getElementById('result_image').src = document.getElementById('result_canvas').toDataURL('image/jpeg');
 			}
 		</script>
 	</body>
