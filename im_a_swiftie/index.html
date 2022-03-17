@@ -179,6 +179,9 @@
 					graphics.fillText(name, 512 - parseInt(graphics.measureText(name).width/2, 10), 296);
 					document.getElementById('result_canvas').style.display = 'none';
 					document.getElementById('result_image').src = document.getElementById('result_canvas').toDataURL('image/jpeg');
+					for(let i = 1; i<=max; i++) {
+						document.getElementById('result').innerHTML += '<button onclick="window.location.href=\'https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value + '&captcha=' + i + '\'">' + i + '</button>';
+					}
 			}
 
 			window.onload = function() {
