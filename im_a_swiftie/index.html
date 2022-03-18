@@ -33,11 +33,7 @@
 </html>
 		</div>
 		<button id="confirm" onclick="clicked()">Confirm</button>
-<<<<<<< HEAD
 		<button id="reload" onclick="window.location.href='https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value" style="display: none;">Do it again</button>
-=======
-		<button id="reload" onclick="window.location.reload()" style="display: none;">Do it again</button>
->>>>>>> parent of be3e4f1 (Made name being remembered)
 		<div id="taycaptcha-window">
 			<div id="payload">
 				<div id="instructions">
@@ -144,8 +140,6 @@
 							selected = data.selected;
 					});
 					taycaptcha.style.display = 'block';
-					document.getElementById('recaptcha-checkbox-border').style.display = 'none';
-					document.getElementById('recaptcha-checkbox-spinner').style.display = 'block';
 				}
 			}
 
@@ -189,7 +183,6 @@
 						document.getElementById('result').innerHTML += '<button onclick="window.location.href=\'https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value + '&captcha=' + i + '\'">' + i + '</button>';
 					}
 			}
-<<<<<<< HEAD
 
 			window.onload = function() {
 				const params = new URLSearchParams(window.location.search);
@@ -197,8 +190,6 @@
 				if(params.has('captcha') && params.get('captcha') > 0 && params.get('captcha') <= max) folder = "images/" + params.get('captcha');
 			}
 
-=======
->>>>>>> parent of be3e4f1 (Made name being remembered)
 		</script>
 	</body>
 
