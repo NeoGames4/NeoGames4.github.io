@@ -181,7 +181,7 @@
 					document.getElementById('result_canvas').style.display = 'none';
 					document.getElementById('result_image').src = document.getElementById('result_canvas').toDataURL('image/jpeg');
 					for(let i = 1; i<=max; i++) {
-						document.getElementById('result_buttons').innerHTML += '<button style="margin-left: 0; margin-right: 0" onclick="window.location.href=\'https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value + '&captcha=' + i + '\'">' + i + '</button>';
+						document.getElementById('result_buttons').innerHTML += '<button style="margin-left: 2px; margin-right: 2px" onclick="window.location.href=\'https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value + '&captcha=' + i + '\'">' + i + '</button>';
 					}
 			}
 
