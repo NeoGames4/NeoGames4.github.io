@@ -33,7 +33,7 @@
 </html>
 		</div>
 		<button id="confirm" onclick="clicked()">Confirm</button>
-		<button id="reload" onclick="window.location.href='https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value" style="display: none;">Do it again</button>
+		<button id="reload" onclick="reload()" style="display: none;">Do it again</button>
 		<div id="taycaptcha-window">
 			<div id="payload">
 				<div id="instructions">
@@ -183,6 +183,15 @@
 					for(let i = 1; i<=max; i++) {
 						document.getElementById('result_buttons').innerHTML += '<button style="margin-left: 2px; margin-right: 2px" onclick="window.location.href=\'https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value + '&captcha=' + i + '\'">' + i + '</button>';
 					}
+			}
+
+			function reload() {
+				const params = new URLSearchParams(window.location.search);
+				let prev = '';
+				if(params.has('exclude')) {
+					prev = params.get('exclude') + '|';
+				}
+				window.location.href='https://neogames4.github.io/im_a_swiftie/index.html?name=' + document.getElementById('name').value + '&exclude=' + prev + folder.split('/')[1];
 			}
 
 			window.onload = function() {
