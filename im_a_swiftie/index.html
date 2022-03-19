@@ -187,8 +187,24 @@
 
 			window.onload = function() {
 				const params = new URLSearchParams(window.location.search);
-				if(params.has('name')) document.getElementById('name').value = params.get('name');
+				if(params.has('name')) document.getElementById('name').value = params.get('name').substr(0, Math.min(params.get('name').length, 30));
 				if(params.has('captcha') && params.get('captcha') > 0 && params.get('captcha') <= max) folder = "images/" + params.get('captcha');
+				else if(params.has('exclude')) {
+					const versions = [];
+					for(let i = 1; i<=max; i++) {
+						versions.push(i);
+					}
+					const excluded = params.get('excluded').split("|");
+					for(let i = 0; i<excluded.length; i++) {
+						const index = versions.indexOf(excluded[i]);
+						if(index > -1) {
+							versions.splice(index, 1);
+						}
+					}
+					if(versions.length > 0) {
+						folder = "images/" + versions[Math.floor(Math.random() * versions.length)];
+					}
+				}
 			}
 
 		</script>
