@@ -192,9 +192,9 @@
 				else if(params.has('exclude')) {
 					const versions = [];
 					for(let i = 1; i<=max; i++) {
-						versions.push(i);
+						versions.push(i + "");
 					}
-					const excluded = params.get('excluded').split("|");
+					const excluded = params.get('exclude').split("|");
 					for(let i = 0; i<excluded.length; i++) {
 						const index = versions.indexOf(excluded[i]);
 						if(index > -1) {
