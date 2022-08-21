@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+	<head content-type="text/html" charset="utf-8">
+		<title>Docs | CCS v1.0.x</title>
+		<link rel="stylesheet" href="style.css"></head>
+	</head>
+	<body>
+		<h1 id="headline">Docs | CCS v1.0.x</h1>
+
+		<div class="navbar">
+			<p><a>Path</a> > <a>CCS</a></p>
+		</div>
+
+		<div class="box" id="introduction">
+			<div class="paragraph">
+				<h2>Introduction</h2>
+				<p>CCS ("Cool Collection System", cool name, I know) is a design for data serialization similar to alternatives like <a href="https://www.json.org/json-en.html">JSON</a>. And even though CCS just looks like another JSON accent it works quite different.<br>CCS is excellent for storing many different values of different data types. It is pretty easy to use and offers multiple features that might be very handy.</p>
+			</div>
+		</div>
+
+		<div class="box" id="chapters">
+			<div class="paragraph">
+				<h2>Chapters</h2>
+				<p>
+					- <a href="#how-to-use">How To Use</a><br>
+					- <a href="#design">The Design</a><br>
+					- <a href="#examples">Examples</a>
+				</p>
+			</div>
+		</div>
+
+		<div class="box" id="how-to-use">
+			<div class="paragraph">
+				<h2>How To Use</h2>
+				<p>To write a Collection in text notation, all you need is a simple text editor. However, especially for larger Collections this can become quite annoying, which is why you may want to use tools like the <a href="https://github.com/NeoGames4/CCS">Java CCS parser and writer</a>. It provides multiple features to read, edit and write a Collection in Java and Kotlin of course. (Libraries for other programming languages are planned, too.) Make sure that the version is compatible with this verion of CCS (see the version number at the top).</p>
+			</div>
+		</div>
+
+		<div class="box" id="design">
+			<div class="paragraph">
+				<h2>The Design</h2>
+				<h3>Collections & Item Sets</h3>
+				<p>Every Collection is surrounded by a '<' and a '>'. You can put as many different characters as you wish in front of these characters. They will be ignored and offer you a way to add some additional information for human readers (e. g. a title).<br>Inside these two characters are so called item sets. Every item set has its own key (different from all others), as well as <u>at least</u> one value ("item"). (Therefore every item has a key and an index.)</p>
+				<p>
+					<code><</code><br>
+						&emsp;<code>key: item0, item1, ...;</code><br>
+						&emsp;<code>different_key: item0;</code><br>
+					<code>></code>
+				</p>
+				<p>(Please note that spaces, tabs and line breaks will be ignored, so you also can put it all just in one line.)<br>As you can see every item is separated by a comma, and every item set is separated by a semicolon (the semicolon of the last item set is optional though). The number of items of an item set is not limited.<br>There has to be a colon between the key and the items.</p>
+				<h3>Keys</h3>
+				<p>As already mentioned, a key may only appear once. The key must not be surrounded by quotation marks. You can give it every name you like, as long as it matches the following regular expression: "<code>[a-zA-Z_\- ]+</code>".<br>Therefore, it has to consist out of (one or more) lower or uppercase letters from 'a' to 'z' or '-', '_' and spaces.</p>
+				<h3>Items</h3>
+				<p>Every item has one key, one index and a single value. CCS does support a various amount of data types:</p>
+				<table cellspacing=0 rules=rows>
+					<caption>Data types</caption>
+					<tr>
+						<th>Name</th>
+						<th>Java equivalent(s)</th>
+						<th>Examples</th>
+						<th>More information</th>
+					</tr>
+					<tr>
+						<td>String</td>
+						<td>String</td>
+						<td>"Some text"</td>
+						<td>Quotation marks are required.<br>Strings in CCS support the following backslash escapes: \n, \r, \t, \\, \", \b and \f.</td>
+					</tr>
+					<tr>
+						<td>Number</td>
+						<td>Integer<br>Long<br>Double<br>BigDecimal</td>
+						<td>13<br>3891271782468791246124<br>22.5<br>22E-66</td>
+						<td>Check the Java docs (or StackOverflow) to learn more about every data type.</td>
+					</tr>
+					<tr>
+						<td>Boolean</td>
+						<td>Boolean</td>
+						<td>true<br>false</td>
+						<td>A boolean can only be <code>true</code> or <code>false</code>. (Case considerations do not matter.)</td>
+					</tr>
+					<tr>
+						<td>Date</td>
+						<td>Date</td>
+						<td>2022-08-19T18:23+0200</td>
+						<td>Using ISO 8601 [<code>yyyy-MM-dd'T'HH:mm:ssZ</code>].</td>
+					</tr>
+					<tr>
+						<td>Object / Instance</td>
+						<td>Serializable</td>
+						<td>i["<i>Serialized bytes as String</i>"]</td>
+						<td>Check the <a href="https://docs.oracle.com/javase/7/docs/api/java/io/Serializable.html">Java docs</a> (or StackOverflow) to learn more about Serializables or take a look at the <a href="#examples">examples</a> below.</td>
+					</tr>
+					<tr>
+						<td>Collection</td>
+						<td>Collection</td>
+						<td>< key: "Hello"; another_key: "World!"; ></td>
+						<td></td>
+					</tr>
+				</table>
+				<p>The data type can vary within one item set.</p>
+			</div>
+		</div>
+
+		<div class="box" id="examples">
+			<div class="paragraph">
+				<h2>Simple Example</h2>
+				<h3>CCS (Text Notation)</h3>
+				<img src="simple_example_ccs.png"><br>
+				<h3>Read And Parse Using The CCS Java Library</h3>
+				<img src="simple_example_code.png">
+			</div>
+			<div class="paragraph">
+				<h2>How To Store An Object (Using The CCS Java Library)</h2>
+				<p><b>Before you continue</b> it is recommended to be aware of what serialization and a Serializable in Java is (check the docs <a href="https://docs.oracle.com/javase/7/docs/api/java/io/Serializable.html">here</a>).</p>
+				<p>First you need to check whether the object is a Serializable (itself or a subclass of a Serializable). (In most cases they are if you want to store a standard Java class. If you want to check it by code, use <code>if(object instanceof Serializable);</code>.) If you want to store one of your own classes, make sure to implement it:</p>
+				<img src="serializable_example_class.png">
+				<p>(Using a serial version UID is highly recommended. Otherwise errors might occur if the class has been edited.)</p>
+				<p>Now all you need to do is use the library as usual.</p>
+				<img src="serializable_example_code.png">
+				<h3>The CCS Result</h3>
+				<img src="serializable_example_ccs.png">
+			</div>
+		</div>
+
+		<div class="footer">
+			<p>
+				<a href="https://github.com/NeoGames4/CCS/releases/edit/untagged-1511dcc043a21fd0aa17">Go to CCS GitHub</a> &#x2022; 
+				<a href="https://neogames4.github.io/CCS.html">Return to product page</a> &#x2022; 
+				<a href="#headline">Scroll to top</a>
+			</p>
+		</div>
+	</body>
+
+</html>
