@@ -20,6 +20,15 @@
 			"url": "https://www.google.com"
 		}
     },
-    "highly_recommended": [],
+    "highly_recommended": [
+		{
+			"title": "r/TaylorSwift",
+			"url": "https://www.discord.com",
+			"avatar_url": "https://m.faz.net/media0/ppmedia/aktuell/feuilleton/1995728416/1.9042106/mmobject-still_full/taylor-swift-waehrend-eines.jpg",
+			"icon": "DISCORD",
+			"foreground": 4294967295,
+			"background": 4283983346
+		}
+	],
     "featured_swifties": []
 }
