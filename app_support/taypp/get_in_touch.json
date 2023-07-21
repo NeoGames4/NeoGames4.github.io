@@ -28,7 +28,28 @@
 			"icon": "DISCORD",
 			"foreground": 4294967295,
 			"background": 4283983346
+		},
+		{
+			"title": "Taylor Nation",
+			"url": "https://www.taylorswift.com",
+			"foreground": 4294967295,
+			"background": 4284113283
 		}
 	],
-    "featured_swifties": []
+    "featured_swifties": [
+		{
+			"title": "Swiftier",
+			"url": "https://www.google.com",
+			"icon": "DISCORD",
+			"foreground": 4279111958,
+			"background": 4288078223
+		},
+		{
+			"title": "The Swift Collective",
+			"url": "https://www.google.com",
+			"icon": "DISCORD",
+			"foreground": 4279111958,
+			"background": 4289713659
+		}
+	]
 }
