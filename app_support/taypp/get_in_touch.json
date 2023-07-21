@@ -1,8 +1,24 @@
 {
     "spotlight": {
-        "l": {},
-        "m": {},
-        "r": {}
+        "l": {
+			"title": "A Swiftie",
+			"url": "https://www.neogames4.github.io",
+			"icon": "INSTAGRAM",
+			"foreground": 4294967295,
+			"background": 4293608862
+		},
+        "m": {
+			"title": "Swifties On Discord",
+			"url": "https://www.discord.com",
+			"avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWwYEqLXCYFty4YYS67LAjSXaxquJi3ePfg&usqp=CAU",
+			"icon": "DISCORD",
+			"foreground": 4294967295,
+			"background": 4283983346
+		},
+        "r": {
+			"title": "Swiftly",
+			"url": "https://www.google.com"
+		}
     },
     "highly_recommended": [],
     "featured_swifties": []
