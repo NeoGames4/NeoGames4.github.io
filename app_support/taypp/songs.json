@@ -1,1 +1,4600 @@
-{"LAVENDER HAZE":{"title":"Lavender Haze","length":202,"release":1669698000,"is_single":true,"albums":["Midnights"],"credits":{"singers":["Taylor Swift"],"writers":["Taylor Swift","Jack Antonoff","Zoë Kravitz","Mark Spears","Jahaan Sweet","Sam Dew"],"producers":["Taylor Swift","Jack Antonoff","Mark Spears","Jahaan Sweet","Braxton Cook"],"others":[{"job":"Drums & piano","names":["Jack Antonoff"]},{"job":"Synths","names":["Jack Antonoff","Jahaan Sweet"]},{"job":"Flute & bass","names":["Jahaan Sweet"]}]},"spotify":"https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC","apple_music":"https://music.apple.com/album/1650859878?i=1650859886","amazon_music":"https://music.amazon.de/tracks/B0BFV2T59C","youtube_music":"https://music.youtube.com/watch?v=GwNPBeWpI-0","lyrics":"https://genius.com/Taylor-swift-lavender-haze-lyrics","see_also":["Lavender Haze (Acoustic Version)","Lavender Haze (Tensnake remix)","Lavender Haze (Snakehips remix)","Lavender Haze (Jungle remix)","Lavender Haze (Felix Jaehn remix)"],"paragraphs":{"count":0}},"MAROON":{"title":"Maroon","length":218,"release":1666324800,"is_single":false,"albums":["Midnights"],"credits":{"singers":["Taylor Swift"],"writers":["Taylor Swift","Jack Antonoff"],"producers":["Taylor Swift","Jack Antonoff"],"others":[{"job":"Piano, Synths & Bass","names":["Jack Antonoff"]},{"job":"Organ, Saxophone, Flute & Clarinet","names":["Evan Smith"]}]},"spotify":"https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm","apple_music":"https://music.apple.com/album/maroon/1650859878?i=1650859887","amazon_music":"https://music.amazon.de/tracks/B0BFVKRXW9","youtube_music":"https://music.youtube.com/watch?v=gGwN25z7FrE","lyrics":"https://genius.com/Taylor-swift-maroon-lyrics","see_also":[],"paragraphs":{"count":0}}}
+{
+    "GIRL AT HOME": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/0DMVrlMUn01M0IcpDbwgu7",
+      "length": 220,
+      "is_single": false,
+      "title": "Girl At Home",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-girl-at-home-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SHAKE IT OFF": {
+      "albums": ["1989"],
+      "notes": [],
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH",
+      "length": 219,
+      "title": "Shake It Off",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Shake%20It%20Off",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-shake-it-off-lyrics"
+    },
+    "ITS TIME TO GO": {
+      "albums": ["evermore (deluxe version)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1609995600,
+      "spotify": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6",
+      "length": 254,
+      "is_single": false,
+      "title": "it\u2019s time to go - bonus track",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-its-time-to-go-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BEAUTIFUL EYES": {
+      "albums": ["Live From Clear Channel Stripped 2008"],
+      "notes": [],
+      "release": 1214629200,
+      "spotify": "https://open.spotify.com/track/4aBW31cmkA7BLColUsMEeZ",
+      "length": 176,
+      "title": "Beautiful Eyes - Live From Clear Channel Stripped 2008",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Beautiful%20Eyes",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-beautiful-eyes-lyrics"
+    },
+    "LONG LIVE": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/4hqJ4bSlYJOXb6Z4SRmzxs",
+      "length": 317,
+      "is_single": false,
+      "title": "Long Live",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-long-live-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "EYES OPEN": {
+      "albums": [],
+      "notes": [],
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/2NIBaWXdjaTDmytjjwbEfP",
+      "length": 243,
+      "title": "Eyes Open",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Nathan Chapman"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Eyes%20Open%20(song)",
+      "is_single": true,
+      "lyrics": "https://genius.com/Taylor-swift-eyes-open-lyrics"
+    },
+    "WONDERLAND": {
+      "albums": ["1989 (Deluxe Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/6iWMI5oOhWrDbLbjmwTWFq",
+      "length": 245,
+      "is_single": false,
+      "title": "Wonderland",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-wonderland-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "EXILE": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/4pvb0WLRcMtbPGmtejJJ6y",
+      "length": 285,
+      "title": "exile (feat. Bon Iver)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Bon Iver"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Joe Alwyn",
+          "Justin Vernon"
+        ],
+        "others": [],
+        "producers": [
+          "Aaron Dessner",
+          "Joe Alwyn"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Exile%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-exile-lyrics"
+    },
+    "EVERMORE": {
+      "albums": ["evermore (deluxe version)"],
+      "notes": [],
+      "release": 1609995600,
+      "spotify": "https://open.spotify.com/track/6Wlq9rqkxrqj5Kls4Kw14H",
+      "length": 304,
+      "title": "evermore (feat. Bon Iver)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Bon Iver"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Evermore%20(Taylor%20Swift%20album)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-evermore-lyrics"
+    },
+    "MR PERFECTLY FINE FROM THE VAULT": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK",
+      "length": 277,
+      "title": "Mr. Perfectly Fine (From The Vault)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Mr.%20Perfectly%20Fine",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-mr-perfectly-fine-taylors-version-from-the-vault-lyrics"
+    },
+    "WE ARE NEVER EVER GETTING BACK TOGETHER": {
+      "albums": ["Red"],
+      "notes": [],
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/5YqltLsjdqFtvqE7Nrysvs",
+      "length": 193,
+      "title": "We Are Never Ever Getting Back Together",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback",
+          "Taylor Swift"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/We%20Are%20Never%20Ever%20Getting%20Back%20Together",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-we-are-never-ever-getting-back-together-taylors-version-lyrics"
+    },
+    "HITS DIFFERENT": {
+      "albums": ["Midnights (The Til Dawn Edition)"],
+      "notes": [],
+      "release": 1685077200,
+      "spotify": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby",
+      "length": 234,
+      "title": "Hits Different",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Aaron Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Hits%20Different",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-hits-different-lyrics"
+    },
+    "STAY BEAUTIFUL": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/2ZoOmCSgj0ypVAmGd1ve4y",
+      "length": 236,
+      "is_single": false,
+      "title": "Stay Beautiful",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-stay-beautiful-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "EPIPHANY": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A",
+      "length": 289,
+      "title": "epiphany",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Epiphany%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-epiphany-lyrics"
+    },
+    "BACK TO DECEMBER": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2",
+      "length": 294,
+      "title": "Back To December",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Nathan Chapman"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Back%20to%20December",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-back-to-december-taylors-version-lyrics"
+    },
+    "YOURE ON YOUR OWN KID": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1671598800,
+      "spotify": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t",
+      "length": 194,
+      "title": "You\u2019re on Your Own, Kid",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/You're%20on%20Your%20Own,%20Kid",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-youre-on-your-own-kid-lyrics"
+    },
+    "LOOK WHAT YOU MADE ME DO": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/1P17dC1amhFzptugyAO7Il",
+      "length": 211,
+      "title": "Look What You Made Me Do",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Fred Fairbrass",
+          "Richard Fairbrass",
+          "Rob Manzoli"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Look%20What%20You%20Made%20Me%20Do",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-look-what-you-made-me-do-lyrics"
+    },
+    "DEATH BY A THOUSAND CUTS": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/2dgFqt3w9xIQRjhPtwNk3D",
+      "length": 198,
+      "is_single": false,
+      "title": "Death By A Thousand Cuts",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-death-by-a-thousand-cuts-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "22": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/3yII7UwgLF6K5zW3xad3MP",
+      "length": 230,
+      "is_single": false,
+      "title": "22",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-22-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THATS WHEN FROM THE VAULT": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Keith Urban"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P",
+      "length": 189,
+      "is_single": false,
+      "title": "That\u2019s When (feat. Keith Urban) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-thats-when-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SOON YOULL GET BETTER": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/4AYtqFyFbX0Xkc2wtcygTr",
+      "length": 201,
+      "title": "Soon You\u2019ll Get Better (feat. The Chicks)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "The Chicks"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Soon%20You'll%20Get%20Better",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-soon-youll-get-better-lyrics"
+    },
+    "I CAN SEE YOU FROM THE VAULT": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v",
+      "length": 273,
+      "is_single": false,
+      "title": "I Can See You (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-i-can-see-you-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "YOU ARE IN LOVE": {
+      "albums": ["1989 (Deluxe Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/4A2LfnduSTsE8u0ecYROxE",
+      "length": 267,
+      "is_single": false,
+      "title": "You Are In Love",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-you-are-in-love-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "YOURE NOT SORRY": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/6iiAfo4wTA2CVC3Uwx9uh8",
+      "length": 261,
+      "is_single": false,
+      "title": "You\u2019re Not Sorry",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-youre-not-sorry-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "GLITCH": {
+      "albums": ["Midnights (3am Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1666414800,
+      "spotify": "https://open.spotify.com/track/6wAFvJPpTZVirBKGZ4EnMW",
+      "length": 148,
+      "is_single": false,
+      "title": "Glitch",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-glitch-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "WHEN EMMA FALLS IN LOVE FROM THE VAULT": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/0zo975x58DlXbZllWvfYhg",
+      "length": 252,
+      "title": "When Emma Falls in Love (From The Vault)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/When%20Emma%20Falls%20in%20Love",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-when-emma-falls-in-love-taylors-version-from-the-vault-lyrics"
+    },
+    "RUN FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Ed Sheeran"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T",
+      "length": 240,
+      "is_single": false,
+      "title": "Run (feat. Ed Sheeran) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-run-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SO IT GOES": {
+      "albums": ["reputation"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/5PxFv9yJEg9dxvbZggykro",
+      "length": 227,
+      "is_single": false,
+      "title": "So It Goes...",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-so-it-goes-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "COME IN WITH THE RAIN": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/1n2wszmJyVkw6FHqyLnQsY",
+      "length": 237,
+      "is_single": false,
+      "title": "Come In With The Rain",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-come-in-with-the-rain-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "IM ONLY ME WHEN IM WITH YOU": {
+      "albums": ["Taylor Swift (Big Machine Radio Release Special)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/1nmUwsjwOgeBxETJ51VMjx",
+      "length": 51,
+      "is_single": false,
+      "title": "I\u2019m Only Me When I\u2019m With You - Commentary",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-im-only-me-when-im-with-you-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "GOLD RUSH": {
+      "albums": ["evermore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/5BK0uqwY9DNfZ630STAEaq",
+      "length": 185,
+      "is_single": false,
+      "title": "gold rush",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-gold-rush-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "PAPER RINGS": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/4y5bvROuBDPr5fuwXbIBZR",
+      "length": 222,
+      "is_single": false,
+      "title": "Paper Rings",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-paper-rings-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "READY FOR IT": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5",
+      "length": 208,
+      "title": "...Ready For It?",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback",
+          "Ali Payami"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback",
+          "Ali Payami"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/...Ready%20for%20It?",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-ready-for-it-lyrics"
+    },
+    "MARJORIE": {
+      "albums": ["evermore"],
+      "notes": [],
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/12ntTeqEeTg7GAVpe8Mhpl",
+      "length": 257,
+      "title": "marjorie",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Marjorie%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-marjorie-lyrics"
+    },
+    "WE WERE HAPPY FROM THE VAULT": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/34V9RiEPe8MNdU32qJsJa1",
+      "length": 244,
+      "is_single": false,
+      "title": "We Were Happy (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-we-were-happy-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SUPERSTAR": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/51A8eKvvZz9uydvIZ7xRSV",
+      "length": 263,
+      "is_single": false,
+      "title": "Superstar",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-superstar-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "ILLICIT AFFAIRS": {
+      "albums": ["folklore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/2NmsngXHeC1GQ9wWrzhOMf",
+      "length": 190,
+      "is_single": false,
+      "title": "illicit affairs",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-illicit-affairs-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "TELL ME WHY": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/0k0vFacOHNuArLWMiH60p7",
+      "length": 200,
+      "is_single": false,
+      "title": "Tell Me Why",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-tell-me-why-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CLOSURE": {
+      "albums": ["evermore (deluxe version)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1609995600,
+      "spotify": "https://open.spotify.com/track/6a8aUhYbaQBUI8PcJ5ZmQ6",
+      "length": 180,
+      "is_single": false,
+      "title": "closure",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-closure-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "WHITE HORSE": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/5YL553x8sHderRBDlm3NM3",
+      "length": 234,
+      "is_single": false,
+      "title": "White Horse",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-white-horse-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "LAST CHRISTMAS": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1228194000,
+      "spotify": "https://open.spotify.com/track/2IprIjGNRlj3TfqUWCAo0C",
+      "length": 208,
+      "is_single": true,
+      "title": "Last Christmas",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-last-christmas-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "KARMA": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf",
+      "length": 204,
+      "title": "Karma",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Sounwave",
+          "Jahaan Sweet",
+          "Keanu Beats"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Sounwave",
+          "Keanu Beats"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Karma%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-karma-lyrics"
+    },
+    "RED": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6",
+      "length": 223,
+      "is_single": false,
+      "title": "Red",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-red-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BYE BYE BABY FROM THE VAULT": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT",
+      "length": 242,
+      "is_single": false,
+      "title": "Bye Bye Baby (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-bye-bye-baby-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THE LAST GREAT AMERICAN DYNASTY": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/2Eeur20xVqfUoM3Q7EFPFt",
+      "length": 230,
+      "title": "the last great american dynasty",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/The%20Last%20Great%20American%20Dynasty",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-the-last-great-american-dynasty-lyrics"
+    },
+    "MINE": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/7G0gBu6nLdhFDPRLc0HdDG",
+      "length": 231,
+      "is_single": false,
+      "title": "Mine",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-mine-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "LONDON BOY": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw",
+      "length": 190,
+      "title": "London Boy",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Cautious Clay",
+          "Sounwave"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/London%20Boy%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-london-boy-lyrics"
+    },
+    "A PERFECTLY GOOD HEART": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/1spLfUJxtyVyiKKTegQ2r4",
+      "length": 220,
+      "is_single": false,
+      "title": "A Perfectly Good Heart",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-a-perfectly-good-heart-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "HEY STEPHEN": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/550erGcdD9n6PnwxrvYqZT",
+      "length": 254,
+      "is_single": false,
+      "title": "Hey Stephen",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-hey-stephen-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "OURS": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/3yNJkriPzWjkkDAWHIAVUq",
+      "length": 235,
+      "is_single": false,
+      "title": "Ours",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-ours-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BAD BLOOD": {
+      "albums": ["1989"],
+      "notes": [],
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/273dCMFseLcVsoSWx59IoE",
+      "length": 211,
+      "title": "Bad Blood",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback",
+          "Kendrick Lamar"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback",
+          "Ilya Salmanzadeh"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Bad%20Blood%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-bad-blood-lyrics"
+    },
+    "TEARDROPS ON MY GUITAR POP VERSION": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/4pJi1rVt9GNegU9kywjg4z",
+      "length": 179,
+      "title": "Teardrops on My Guitar - Pop Version",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Liz Rose"
+        ],
+        "others": [],
+        "producers": ["Nathan Chapman"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Teardrops%20on%20My%20Guitar",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-teardrops-on-my-guitar-pop-version-lyrics"
+    },
+    "ITS NICE TO HAVE A FRIEND": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/1SmiQ65iSAbPto6gPFlBYm",
+      "length": 150,
+      "is_single": false,
+      "title": "It\u2019s Nice To Have A Friend",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-its-nice-to-have-a-friend-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "OUT OF THE WOODS": {
+      "albums": ["1989"],
+      "notes": [],
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/5OndtwLGA9O6XHFcGm2H7r",
+      "length": 235,
+      "title": "Out Of The Woods",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Out%20of%20the%20Woods%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-out-of-the-woods-lyrics"
+    },
+    "DAYLIGHT": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/1fzAuUVbzlhZ1lJAx9PtY6",
+      "length": 293,
+      "is_single": false,
+      "title": "Daylight",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-daylight-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BEAUTIFUL GHOSTS": {
+      "albums": ["Cats: Highlights From The Motion Picture Soundtrack"],
+      "notes": [],
+      "release": 1576818000,
+      "spotify": "https://open.spotify.com/track/2evEoQAhIMaa9PfjTT5skG",
+      "length": 261,
+      "title": "Beautiful Ghosts - From The Motion Picture Soundtrack \"Cats\"",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": [
+          "Greg Wells",
+          "Tom Hooper",
+          "Andrew Lloyd Webber"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Beautiful%20Ghosts",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-beautiful-ghosts-lyrics"
+    },
+    "ALL YOU HAD TO DO WAS STAY": {
+      "albums": ["1989"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19",
+      "length": 193,
+      "is_single": false,
+      "title": "All You Had To Do Was Stay",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-all-you-had-to-do-was-stay-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THE WAY I LOVED YOU": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/22bPsP2jCgbLUvh82U0Z3M",
+      "length": 243,
+      "is_single": false,
+      "title": "The Way I Loved You",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-way-i-loved-you-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "DONT YOU FROM THE VAULT": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY",
+      "length": 208,
+      "is_single": false,
+      "title": "Don\u2019t You (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-dont-you-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "DEAR READER": {
+      "albums": ["Midnights (3am Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1666414800,
+      "spotify": "https://open.spotify.com/track/3QF5RsWzK1lCvf2o2cY65P",
+      "length": 225,
+      "is_single": false,
+      "title": "Dear Reader",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-dear-reader-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "UNTOUCHABLE": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/0tQ9vBYpldCuikPsbgOVKA",
+      "length": 312,
+      "is_single": false,
+      "title": "Untouchable",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-untouchable-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "FOREVER WINTER FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/3oGVx9RBmiYGv5ZCecWLkx",
+      "length": 263,
+      "is_single": false,
+      "title": "Forever Winter (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-forever-winter-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "WILDEST DREAMS": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1631854800,
+      "spotify": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL",
+      "length": 220,
+      "is_single": true,
+      "title": "Wildest Dreams",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-wildest-dreams-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "INNOCENT": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/12nBPF4Rh4XLFJV0YLN7uj",
+      "length": 301,
+      "is_single": false,
+      "title": "Innocent",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-innocent-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CALL IT WHAT YOU WANT": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/1GwMQaZz6Au3QLDbjbMdme",
+      "length": 203,
+      "title": "Call It What You Want",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Call%20It%20What%20You%20Want%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-call-it-what-you-want-lyrics"
+    },
+    "THE LAKES": {
+      "albums": ["folklore (deluxe version)"],
+      "notes": [],
+      "release": 1597726800,
+      "spotify": "https://open.spotify.com/track/0eFQWVz0qIxDOvhLpZ40P7",
+      "length": 211,
+      "title": "the lakes - bonus track",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/The%20Lakes%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-the-lakes-lyrics"
+    },
+    "THE MAN": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70",
+      "length": 190,
+      "title": "The Man",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Joel Little"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Joel Little"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/The%20Man%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-the-man-lyrics"
+    },
+    "LAVENDER HAZE": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1671598800,
+      "spotify": "https://open.spotify.com/track/5jQI2r1RdgtuT8S3iG8zFC",
+      "length": 202,
+      "title": "Lavender Haze",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Zoë Kravitz",
+          "Sounwave",
+          "Jahaan Sweet",
+          "Sam Dew"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Sounwave",
+          "Jahaan Sweet"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Lavender%20Haze",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-lavender-haze-lyrics"
+    },
+    "WHITE CHRISTMAS": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1228194000,
+      "spotify": "https://open.spotify.com/track/7GZ3KDorsc1yWndEtzGTjf",
+      "length": 154,
+      "is_single": true,
+      "title": "White Christmas",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-white-christmas-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "FIFTEEN": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/2nqio0SfWg6gh2eCtfuMa5",
+      "length": 294,
+      "is_single": false,
+      "title": "Fifteen",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-fifteen-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "LABYRINTH": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0",
+      "length": 247,
+      "title": "Labyrinth",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Labyrinth%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-labyrinth-lyrics"
+    },
+    "CHRISTMAS MUST BE SOMETHING MORE": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1228194000,
+      "spotify": "https://open.spotify.com/track/31JVjy3XWnh6C2zf4kLCXN",
+      "length": 232,
+      "is_single": true,
+      "title": "Christmas Must Be Something More",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-christmas-must-be-something-more-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "FOOLISH ONE FROM THE VAULT": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU",
+      "length": 311,
+      "is_single": false,
+      "title": "Foolish One (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-foolish-one-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "PEACE": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/7MbT4I8qGntX4fMdqMQgke",
+      "length": 234,
+      "title": "peace",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Peace%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-peace-lyrics"
+    },
+    "SANTA BABY": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1228194000,
+      "spotify": "https://open.spotify.com/track/71IScwIe7bcIlpnlkbKVQw",
+      "length": 158,
+      "is_single": true,
+      "title": "Santa Baby",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-santa-baby-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "IVY": {
+      "albums": ["evermore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/19CSr8rwW05VJL2F91KFNK",
+      "length": 260,
+      "is_single": false,
+      "title": "ivy",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-ivy-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "QUESTION": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/0heeNYlwOGuUSe7TgUD27B",
+      "length": 210,
+      "title": "Question...?",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Question...?",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-question-lyrics"
+    },
+    "I KNEW YOU WERE TROUBLE": {
+      "albums": ["Red"],
+      "notes": [],
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/6AtZLIzUINvExIUy4QhdjP",
+      "length": 219,
+      "title": "I Knew You Were Trouble",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/I%20Knew%20You%20Were%20Trouble",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-i-knew-you-were-trouble-taylors-version-lyrics"
+    },
+    "THE LUCKY ONE": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/4e5ayHsOLJNLTGfjau2mEw",
+      "length": 240,
+      "is_single": false,
+      "title": "The Lucky One",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-lucky-one-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BEJEWELED": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE",
+      "length": 194,
+      "title": "Bejeweled",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Bejeweled%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-bejeweled-lyrics"
+    },
+    "TIS THE DAMN SEASON": {
+      "albums": ["evermore"],
+      "notes": [],
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/7dW84mWkdWE5a6lFWxJCBG",
+      "length": 229,
+      "title": "\u2018tis the damn season",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/'Tis%20the%20Damn%20Season",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-tis-the-damn-season-lyrics"
+    },
+    "MIRRORBALL": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/0ZNU020wNYvgW84iljPkPP",
+      "length": 208,
+      "title": "mirrorball",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Mirrorball%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-mirrorball-lyrics"
+    },
+    "BREATHE": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Colbie Caillat"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/7HC7R2D8WjXVcUHJyEGjRs",
+      "length": 263,
+      "is_single": false,
+      "title": "Breathe (feat. Colbie Caillat)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-breathe-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "NEW ROMANTICS": {
+      "albums": ["1989 (Deluxe Edition)"],
+      "notes": [],
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/6rZVy6FIG7lSJQMFXHo12z",
+      "length": 230,
+      "title": "New Romantics",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/New%20Romantics%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-new-romantics-lyrics"
+    },
+    "CORNELIA STREET": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/12M5uqx0ZuwkpLp5rJim1a",
+      "length": 287,
+      "title": "Cornelia Street",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Cornelia%20Street%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-cornelia-street-lyrics"
+    },
+    "MASTERMIND": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH",
+      "length": 191,
+      "title": "Mastermind",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Mastermind%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-mastermind-lyrics"
+    },
+    "THE 1": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU",
+      "length": 311,
+      "title": "Foolish One (From The Vault)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/The%201",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-the-1-lyrics"
+    },
+    "MESSAGE IN A BOTTLE FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j",
+      "length": 225,
+      "is_single": false,
+      "title": "Message In A Bottle (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-message-in-a-bottle-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CARDIGAN": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd",
+      "length": 239,
+      "title": "cardigan",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Cardigan%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-cardigan-lyrics"
+    },
+    "SNOW ON THE BEACH": {
+      "albums": ["Midnights (The Til Dawn Edition)"],
+      "notes": [],
+      "release": 1685077200,
+      "spotify": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot",
+      "length": 229,
+      "title": "Snow On The Beach (feat. More Lana Del Rey)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Lana Del Rey"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Lana Del Rey",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Snow%20on%20the%20Beach",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-snow-on-the-beach-lyrics"
+    },
+    "EVERYTHING HAS CHANGED": {
+      "albums": ["Red"],
+      "notes": [],
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK",
+      "length": 245,
+      "title": "Everything Has Changed (feat. Ed Sheeran)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Ed Sheeran"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Ed Sheeran"
+        ],
+        "others": [],
+        "producers": ["Butch Walker"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Everything%20Has%20Changed",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-everything-has-changed-taylors-version-lyrics"
+    },
+    "DANCING WITH OUR HANDS TIED": {
+      "albums": ["reputation"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/7I7JbDv63ZJJsSi24DyJrz",
+      "length": 211,
+      "is_single": false,
+      "title": "Dancing With Our Hands Tied",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-dancing-with-our-hands-tied-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "YOU NEED TO CALM DOWN": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5",
+      "length": 171,
+      "title": "You Need To Calm Down",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Joel Little"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Joel Little"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/You%20Need%20to%20Calm%20Down",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-you-need-to-calm-down-lyrics"
+    },
+    "SPEAK NOW": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/5xXqyjLicvEpch72qEryFT",
+      "length": 242,
+      "title": "Speak Now",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Speak%20Now%20(Taylor's%20Version)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-speak-now-taylors-version-lyrics"
+    },
+    "TREACHEROUS": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/3S7HNKPakdwNEBFIVTL6dZ",
+      "length": 242,
+      "is_single": false,
+      "title": "Treacherous",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-treacherous-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "MAD WOMAN": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/2QDyYdZyhlP2fp79KZX8Bi",
+      "length": 237,
+      "title": "mad woman",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Mad%20Woman",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-mad-woman-lyrics"
+    },
+    "FALSE GOD": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/5hQSXkFgbxjZo9uCwd11so",
+      "length": 200,
+      "is_single": false,
+      "title": "False God",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-false-god-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "I KNOW PLACES": {
+      "albums": ["1989 (Deluxe Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/2zfgVd034GlUvk7LqBHl6u",
+      "length": 195,
+      "is_single": false,
+      "title": "I Know Places",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-i-know-places-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "HOW YOU GET THE GIRL": {
+      "albums": ["1989 (Deluxe Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/6wfugRLamFsTRbPcCpNnP7",
+      "length": 247,
+      "is_single": false,
+      "title": "How You Get The Girl",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-how-you-get-the-girl-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "MARYS SONG OH MY MY MY": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/2QrQCMel6v2JiLxqrg4p2O",
+      "length": 213,
+      "is_single": false,
+      "title": "Mary's Song (Oh My My My)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-marys-song-oh-my-my-my-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THE GREAT WAR": {
+      "albums": ["Midnights (3am Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1666414800,
+      "spotify": "https://open.spotify.com/track/3UMrglJeju5yWyYIW6o99b",
+      "length": 240,
+      "is_single": false,
+      "title": "The Great War",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-great-war-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "HAPPINESS": {
+      "albums": ["evermore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/73YUReisjb3A9ActdLLjJQ",
+      "length": 315,
+      "is_single": false,
+      "title": "happiness",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-happiness-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "YOU ALL OVER ME FROM THE VAULT": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Maren Morris"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO",
+      "length": 220,
+      "is_single": false,
+      "title": "You All Over Me (feat. Maren Morris) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-you-all-over-me-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "GORGEOUS": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/1ZY1PqizIl78geGM4xWlEA",
+      "length": 209,
+      "title": "Gorgeous",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Gorgeous%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-gorgeous-lyrics"
+    },
+    "ALL TOO WELL 10 MINUTE VERSION FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi",
+      "length": 613,
+      "is_single": false,
+      "title": "All Too Well (10 Minute Version) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-all-too-well-10-minute-version-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SUPERMAN": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/4evLyY5Ue1Wesc61t2KXAU",
+      "length": 274,
+      "is_single": false,
+      "title": "Superman",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-superman-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "HAUNTED": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/4tMzIAFTFdqGBQLdfbPces",
+      "length": 245,
+      "is_single": false,
+      "title": "Haunted",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-haunted-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CRAZIER": {
+      "albums": ["Hannah Montana The Movie"],
+      "notes": [],
+      "release": 1230786000,
+      "spotify": "https://open.spotify.com/track/5vyxXfD5gLlyPxGZMEjtmd",
+      "length": 191,
+      "title": "Crazier",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Robert Ellis Orrall"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Nathan Chapman"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Crazier",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-crazier-lyrics"
+    },
+    "THE LAST TIME": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Gary Lightbody"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/0y6kdSRCVQhSsHSpWvTUm7",
+      "length": 299,
+      "is_single": false,
+      "title": "The Last Time (feat. Gary Lightbody of Snow Patrol)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-last-time-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "STARLIGHT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/7A2cNLRT0YJc1yjxHlKihs",
+      "length": 220,
+      "is_single": false,
+      "title": "Starlight",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-starlight-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "STYLE": {
+      "albums": ["1989"],
+      "notes": [],
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/4lIxdJw6W3Fg4vUIYCB0S5",
+      "length": 231,
+      "title": "Style",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback",
+          "Ali Payami"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback",
+          "Ali Payami"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Style%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-style-lyrics"
+    },
+    "CASTLES CRUMBLING FROM THE VAULT": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/4ABYxlb92WBIjHu7TIKmml",
+      "length": 306,
+      "title": "Castles Crumbling (feat. Hayley Williams) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Hayley Williams"
+        ],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Castles%20Crumbling",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-castles-crumbling-taylors-version-from-the-vault-lyrics"
+    },
+    "MACAVITY": {
+      "albums": ["Cats: Highlights From The Motion Picture Soundtrack"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1576818000,
+      "spotify": "https://open.spotify.com/track/5zOKuItOTZhRCGtPrDYmlj",
+      "length": 311,
+      "is_single": false,
+      "title": "Macavity - From The Motion Picture Soundtrack \"Cats\"",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-macavity-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THE MOMENT I KNEW": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/0NRHj8hDwwmSPaA41o379r",
+      "length": 285,
+      "is_single": false,
+      "title": "The Moment I Knew",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-moment-i-knew-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "INVISIBLE": {
+      "albums": ["folklore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV",
+      "length": 252,
+      "is_single": false,
+      "title": "invisible string",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-invisible-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "COLD AS YOU": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/7an1exwMnfYRcdVQm0yDev",
+      "length": 239,
+      "is_single": false,
+      "title": "Cold As You",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-cold-as-you-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "RONAN": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/7nWui6jiMM2m9qFmET1Mtj",
+      "length": 264,
+      "is_single": false,
+      "title": "Ronan",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-ronan-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THIS IS ME TRYING": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/7kt9e9LFSpN1zQtYEl19o1",
+      "length": 195,
+      "title": "this is me trying",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Joe Alwyn"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/This%20Is%20Me%20Trying",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-this-is-me-trying-lyrics"
+    },
+    "ALL OF THE GIRLS YOU LOVED BEFORE": {
+      "albums": [],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy",
+      "length": 221,
+      "title": "All Of The Girls You Loved Before",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Louis Bell",
+          "Frank Dukes"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Louis Bell",
+          "Frank Dukes"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/All%20of%20the%20Girls%20You%20Loved%20Before",
+      "is_single": true,
+      "lyrics": "https://genius.com/Taylor-swift-all-of-the-girls-you-loved-before-lyrics"
+    },
+    "NO BODY NO CRIME": {
+      "albums": ["evermore"],
+      "notes": [],
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/3RaT22zZsxVYxxKR7TAaYF",
+      "length": 215,
+      "title": "no body, no crime (feat. HAIM)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "HAIM"
+        ],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/No%20Body,%20No%20Crime",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-no-body-no-crime-lyrics"
+    },
+    "GETAWAY CAR": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/0VE4kBnHJUgtMf0dy6DRmW",
+      "length": 233,
+      "title": "Getaway Car",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Getaway%20Car%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-getaway-car-lyrics"
+    },
+    "NEW YEARS DAY": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/7F5oktn5YOsR9eR5YsFtqb",
+      "length": 235,
+      "title": "New Year\u2019s Day",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/New%20Year's%20Day%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-new-years-day-lyrics"
+    },
+    "CAROLINA": {
+      "albums": [],
+      "notes": [],
+      "release": 1656046800,
+      "spotify": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU",
+      "length": 264,
+      "title": "Carolina - From The Motion Picture \u201cWhere The Crawdads Sing\u201d",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Carolina%20(Taylor%20Swift%20song)",
+      "is_single": true,
+      "lyrics": "https://genius.com/Taylor-swift-carolina-lyrics"
+    },
+    "INVISIBLE STRING": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV",
+      "length": 252,
+      "title": "invisible string",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Invisible%20String",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-invisible-string-lyrics"
+    },
+    "OUR SONG": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/15DeqWWQB4dcEWzJg15VrN",
+      "length": 201,
+      "title": "Our Song",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": ["Nathan Chapman"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Our%20Song%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-our-song-lyrics"
+    },
+    "THIS LOVE": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1651813200,
+      "spotify": "https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv",
+      "length": 250,
+      "is_single": true,
+      "title": "This Love",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-this-love-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THE BEST DAY": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/6ON9UuIq49xXY9GPmHIYRp",
+      "length": 245,
+      "is_single": false,
+      "title": "The Best Day",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-best-day-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "YOU BELONG WITH ME": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/1qrpoAMXodY6895hGKoUpA",
+      "length": 231,
+      "is_single": false,
+      "title": "You Belong With Me",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-you-belong-with-me-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "DOROTHEA": {
+      "albums": ["evermore"],
+      "notes": [],
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/670fUmXf4KQekzbEgaXyPA",
+      "length": 225,
+      "title": "dorothea",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Dorothea%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-dorothea-lyrics"
+    },
+    "FOREVER  ALWAYS": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "release": 1617940800,
+      "spotify": "https://open.spotify.com/track/1msEuwSBneBKpVCZQcFTsU",
+      "length": 225,
+      "title": "Forever & Always",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 1226379600,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Nathan Chapman",
+          "Christopher Rowe"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Forever_%26_Always",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-forever-and-always-taylors-version-lyrics"
+    },
+    "COME BACKBE HERE": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/4pNApnaUWAL2J4KO2eqokq",
+      "length": 223,
+      "is_single": false,
+      "title": "Come Back...Be Here",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-come-back-be-here-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SILENT NIGHT": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1228194000,
+      "spotify": "https://open.spotify.com/track/1cJkUN5LAotktryx2nPCr7",
+      "length": 209,
+      "is_single": true,
+      "title": "Silent Night",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-silent-night-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "LOVE STORY": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1613106000,
+      "spotify": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf",
+      "length": 235,
+      "is_single": true,
+      "title": "Love Story",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-love-story-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CHRISTMASES WHEN YOU WERE MINE": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1228194000,
+      "spotify": "https://open.spotify.com/track/1g09DZjQ7yBommCT6POY2n",
+      "length": 184,
+      "is_single": true,
+      "title": "Christmases When You Were Mine",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-christmases-when-you-were-mine-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "DONT BLAME ME": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE",
+      "length": 236,
+      "title": "Don\u2019t Blame Me",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Don't%20Blame%20Me%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-dont-blame-me-lyrics"
+    },
+    "STATE OF GRACE": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/6lzc0Al0zfZOIFsFvBS1ki",
+      "length": 295,
+      "is_single": false,
+      "title": "State Of Grace",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-state-of-grace-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "HOAX": {
+      "albums": ["folklore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/6MWoRt97mnSTXZhu3ggi9C",
+      "length": 220,
+      "is_single": false,
+      "title": "hoax",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-hoax-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SEVEN": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/6KJqZcs9XDgVck7Lg9QOTC",
+      "length": 208,
+      "title": "seven",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Seven%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-seven-lyrics"
+    },
+    "IF THIS WAS A MOVIE": {
+      "albums": [],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/0kAZ3H6G9Zac4PMpmobMkj",
+      "length": 237,
+      "is_single": true,
+      "title": "If This Was A Movie",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-if-this-was-a-movie-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "TIMELESS FROM THE VAULT": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A",
+      "length": 321,
+      "is_single": false,
+      "title": "Timeless (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-timeless-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "MISS AMERICANA  THE HEARTBREAK PRINCE": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/214nt20w5wOxJnY462klLw",
+      "length": 234,
+      "title": "Miss Americana & The Heartbreak Prince",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Miss%20Americana",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-miss-americana-and-the-heartbreak-prince-lyrics"
+    },
+    "THE ARCHER": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/3pHkh7d0lzM2AldUtz2x37",
+      "length": 211,
+      "title": "The Archer",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/The%20Archer%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-the-archer-lyrics"
+    },
+    "MAROON": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/3eX0NZfLtGzoLUxPNvRfqm",
+      "length": 218,
+      "title": "Maroon",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Maroon%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-maroon-lyrics"
+    },
+    "LOVER": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/1dGr1c8CrMLDpV6mPbImSI",
+      "length": 221,
+      "title": "Lover",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Lover%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-lover-lyrics"
+    },
+    "BETTY": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/5kI4eCXXzyuIUXjQra0Cxi",
+      "length": 294,
+      "title": "betty",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Joe Alwyn"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Aaron Dessner",
+          "Joe Alwyn"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Betty%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-betty-lyrics"
+    },
+    "ELECTRIC TOUCH FROM THE VAULT": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Fall Out Boy"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/4e3ZNTAV6PCrdYMUrUlMpQ",
+      "length": 266,
+      "is_single": false,
+      "title": "Electric Touch (feat. Fall Out Boy) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-electric-touch-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "ENCHANTED": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h",
+      "length": 353,
+      "is_single": false,
+      "title": "Enchanted",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-enchanted-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "HIGH INFIDELITY": {
+      "albums": ["Midnights (3am Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1666414800,
+      "spotify": "https://open.spotify.com/track/5kiZGSxgqPdv6rbqL9THdd",
+      "length": 231,
+      "is_single": false,
+      "title": "High Infidelity",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-high-infidelity-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "HOLY GROUND": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/7J4b3LVCIGO4CMBDFLPoP6",
+      "length": 202,
+      "is_single": false,
+      "title": "Holy Ground",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-holy-ground-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BLANK SPACE": {
+      "albums": ["1989"],
+      "notes": [],
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky",
+      "length": 231,
+      "title": "Blank Space",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Blank%20Space",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-blank-space-lyrics"
+    },
+    "THIS IS WHY WE CANT HAVE NICE THINGS": {
+      "albums": ["reputation"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP",
+      "length": 207,
+      "is_single": false,
+      "title": "This Is Why We Can't Have Nice Things",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-this-is-why-we-cant-have-nice-things-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BEGIN AGAIN": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/05GsNucq8Bngd9fnd4fRa0",
+      "length": 238,
+      "is_single": false,
+      "title": "Begin Again",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-begin-again-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "WELCOME TO NEW YORK": {
+      "albums": ["1989"],
+      "notes": [],
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/6qnM0XXPZOINWA778uNqQ9",
+      "length": 212,
+      "title": "Welcome To New York",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Ryan Tedder"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Ryan Tedder",
+          "Noel Zancanella"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Welcome%20to%20New%20York%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-welcome-to-new-york-lyrics"
+    },
+    "ANTIHERO": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu",
+      "length": 200,
+      "title": "Anti-Hero",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Anti-Hero%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-anti-hero-lyrics"
+    },
+    "TIED TOGETHER WITH A SMILE": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/6K0CJLVXqbGMeJSmJ4ENKK",
+      "length": 248,
+      "is_single": false,
+      "title": "Tied Together with a Smile",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-tied-together-with-a-smile-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SAFE  SOUND": {
+      "albums": [],
+      "notes": [],
+      "release": 1679025600,
+      "spotify": "https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T",
+      "length": 241,
+      "title": "Safe & Sound",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 1324872000,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Joy Williams",
+          "John Paul White"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Joy Williams",
+          "John Paul White",
+          "T-Bone Burnett"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Christorpher Rowe",
+          "Paul Mirkovich"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Safe_%26_Sound_(Taylor_Swift_song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-safe-and-sound-lyrics"
+    },
+    "COWBOY LIKE ME": {
+      "albums": ["evermore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/1XjHRolIXL2M1EEOUsGGR4",
+      "length": 275,
+      "is_single": false,
+      "title": "cowboy like me",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-cowboy-like-me-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "TOLERATE IT": {
+      "albums": ["evermore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/0PurA4JVJ8YQgSVopY8fn6",
+      "length": 245,
+      "is_single": false,
+      "title": "tolerate it",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-tolerate-it-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "ME": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE",
+      "length": 236,
+      "title": "Don\u2019t Blame Me",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Joel Little",
+          "Brendon Urie"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Joel Little"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Me!",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-me-lyrics"
+    },
+    "BETTER MAN FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/4OmFmE0fzcMG6g0Y8p4eSD",
+      "length": 297,
+      "is_single": false,
+      "title": "Better Man (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-better-man-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "MY TEARS RICOCHET": {
+      "albums": ["folklore"],
+      "notes": [],
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/1MgV7FIyNxIG7WzMRJV5HC",
+      "length": 255,
+      "title": "my tears ricochet",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "Joe Alwyn"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/My%20Tears%20Ricochet",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-my-tears-ricochet-lyrics"
+    },
+    "CHRISTMAS TREE FARM": {
+      "albums": [],
+      "notes": [],
+      "release": 1575608400,
+      "spotify": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek",
+      "length": 228,
+      "title": "Christmas Tree Farm",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jimmy Napes"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Christmas%20Tree%20Farm",
+      "is_single": true,
+      "lyrics": "https://genius.com/Taylor-swift-christmas-tree-farm-lyrics"
+    },
+    "THE OUTSIDE": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/2QA3IixpRcKyOdG7XDzRgv",
+      "length": 207,
+      "is_single": false,
+      "title": "The Outside",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-outside-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BABE FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d",
+      "length": 224,
+      "is_single": false,
+      "title": "Babe (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-babe-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "BIGGER THAN THE WHOLE SKY": {
+      "albums": ["Midnights (3am Edition)"],
+      "notes": [],
+      "release": 1666414800,
+      "spotify": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X",
+      "length": 218,
+      "title": "Bigger Than The Whole Sky",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Bigger%20Than%20the%20Whole%20Sky",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-bigger-than-the-whole-sky-lyrics"
+    },
+    "WILLOW": {
+      "albums": ["evermore"],
+      "notes": [],
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f",
+      "length": 214,
+      "title": "willow",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": ["Aaron Dessner"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Willow%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-willow-lyrics"
+    },
+    "AFTERGLOW": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/1SymEzIT3H8UZfibCs3TYi",
+      "length": 223,
+      "is_single": false,
+      "title": "Afterglow",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-afterglow-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "JUMP THEN FALL": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/2m3ObD945KvpE5y9A1eUWm",
+      "length": 237,
+      "is_single": false,
+      "title": "Jump Then Fall",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-jump-then-fall-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THE STORY OF US": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3",
+      "length": 267,
+      "is_single": false,
+      "title": "The Story Of Us",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-story-of-us-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "WOULDVE COULDVE SHOULDVE": {
+      "albums": ["Midnights (3am Edition)"],
+      "notes": [],
+      "release": 1666335600,
+      "spotify": "https://open.spotify.com/track/0aV5uARAknQgYhBaK944FP",
+      "length": 260,
+      "title": "Would\u2019ve, Could\u2019ve, Should\u2019ve",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Would've,%20Could've,%20Should've",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-wouldve-couldve-shouldve-lyrics"
+    },
+    "AUGUST": {
+      "albums": ["folklore"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1595566800,
+      "spotify": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
+      "length": 261,
+      "is_single": false,
+      "title": "august",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-august-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "STAY STAY STAY": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/7eQj6r5PIdYKEIZjucBMcq",
+      "length": 205,
+      "is_single": false,
+      "title": "Stay Stay Stay",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-stay-stay-stay-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "ONLY THE YOUNG": {
+      "albums": [],
+      "notes": [],
+      "release": 1580446800,
+      "spotify": "https://open.spotify.com/track/2slqvGLwzZZYsT4K4Y1GBC",
+      "length": 157,
+      "title": "Only The Young - Featured in Miss Americana",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Joel Little"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Joel Little"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Only%20the%20Young%20(Taylor%20Swift%20song)",
+      "is_single": true,
+      "lyrics": "https://genius.com/Taylor-swift-only-the-young-lyrics"
+    },
+    "SHOULDVE SAID NO": {
+      "albums": ["Taylor Swift (Big Machine Radio Release Special)"],
+      "notes": [],
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/0ST1G2zAOuSPd6rYdF3RS0",
+      "length": 81,
+      "title": "Should\u2019ve Said No - Commentary",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": ["Nathan Chapman"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Should've%20Said%20No",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-shouldve-said-no-lyrics"
+    },
+    "SWEETER THAN FICTION": {
+      "albums": [],
+      "notes": [],
+      "release": 1382331600,
+      "spotify": "https://open.spotify.com/track/0RFCHlNuTeUHIB36VuVbOL",
+      "length": 237,
+      "title": "Sweeter Than Fiction - From \"One Chance\" Soundtrack",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Sweeter%20than%20Fiction",
+      "is_single": true,
+      "lyrics": "https://genius.com/Taylor-swift-sweeter-than-fiction-lyrics"
+    },
+    "DELICATE": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/6NFyWDv5CjfwuzoCkw47Xf",
+      "length": 232,
+      "title": "Delicate",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Delicate%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-delicate-lyrics"
+    },
+    "I ALMOST DO": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/2r9CbjYgFhtAmcFv1cSquB",
+      "length": 244,
+      "is_single": false,
+      "title": "I Almost Do",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-i-almost-do-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SAD BEAUTIFUL TRAGIC": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/73qMN9bXy7MSPwwGfH3wQr",
+      "length": 284,
+      "is_single": false,
+      "title": "Sad Beautiful Tragic",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-sad-beautiful-tragic-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SWEET NOTHING": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb",
+      "length": 188,
+      "title": "Sweet Nothing",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "William Bowery"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Sweet%20Nothing%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-sweet-nothing-lyrics"
+    },
+    "TIM MCGRAW": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/0Om9WAB5RS09L80DyOfTNa",
+      "length": 232,
+      "title": "Tim McGraw",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Liz Rose"
+        ],
+        "others": [],
+        "producers": ["Nathan Chapman"]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Tim%20McGraw%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-tim-mcgraw-lyrics"
+    },
+    "KING OF MY HEART": {
+      "albums": ["reputation"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/7HuBDWi18s4aJM8UFnNheH",
+      "length": 214,
+      "is_single": false,
+      "title": "King Of My Heart",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-king-of-my-heart-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "I WISH YOU WOULD": {
+      "albums": ["1989 (Deluxe Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/1B5VzXPqMlvRw0U4HJY3dJ",
+      "length": 207,
+      "is_single": false,
+      "title": "I Wish You Would",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-i-wish-you-would-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "MIDNIGHT RAIN": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/3rWDp9tBPQR9z6U5YyRSK4",
+      "length": 174,
+      "title": "Midnight Rain",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Midnight%20Rain",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-midnight-rain-lyrics"
+    },
+    "I BET YOU THINK ABOUT ME FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL",
+      "length": 285,
+      "title": "I Bet You Think About Me (feat. Chris Stapleton) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Chris Stapleton"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Lori McKenna"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/I%20Bet%20You%20Think%20About%20Me",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-i-bet-you-think-about-me-taylors-version-from-the-vault-lyrics"
+    },
+    "NEVER GROW UP": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/2EFZ9emtKWEglWUQGEQ3P9",
+      "length": 292,
+      "is_single": false,
+      "title": "Never Grow Up",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-never-grow-up-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "SPARKS FLY": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/3MytWN8L7shNYzGl4tAKRp",
+      "length": 261,
+      "is_single": false,
+      "title": "Sparks Fly",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-sparks-fly-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CHAMPAGNE PROBLEMS": {
+      "albums": ["evermore"],
+      "notes": [],
+      "release": 1607662800,
+      "spotify": "https://open.spotify.com/track/0sY6ZUTh4yoctD8VIXz339",
+      "length": 244,
+      "title": "champagne problems",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "William Bowery<!-- Per WP:UNBROKEN, this link should not be piped. -->"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Aaron Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Champagne%20Problems%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-champagne-problems-lyrics"
+    },
+    "LAST KISS": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/59KOoHFcw5XfICnO57holu",
+      "length": 369,
+      "is_single": false,
+      "title": "Last Kiss",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-last-kiss-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CHANGE": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Ed Sheeran"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/7qEUFOVcxRI19tbT68JcYK",
+      "length": 245,
+      "is_single": false,
+      "title": "Everything Has Changed (feat. Ed Sheeran)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-change-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "I THINK HE KNOWS": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/2YWtcWi3a83pdEg3Gif4Pd",
+      "length": 173,
+      "is_single": false,
+      "title": "I Think He Knows",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-i-think-he-knows-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "VIGILANTE SHIT": {
+      "albums": ["Midnights"],
+      "notes": [],
+      "release": 1666328400,
+      "spotify": "https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O",
+      "length": 164,
+      "title": "Vigilante Shit",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Vigilante%20Shit",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-vigilante-shit-lyrics"
+    },
+    "DEAR JOHN": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/1zU8j1x3yi9xalMF96pzKp",
+      "length": 405,
+      "is_single": false,
+      "title": "Dear John",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-dear-john-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "MEAN": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/30Y4CV7A6YqtQtTTo7Ue4j",
+      "length": 238,
+      "is_single": false,
+      "title": "Mean",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-mean-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "THE VERY FIRST NIGHT FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8",
+      "length": 200,
+      "is_single": false,
+      "title": "The Very First Night (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-very-first-night-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CONEY ISLAND": {
+      "albums": ["evermore (deluxe version)"],
+      "notes": [],
+      "release": 1609995600,
+      "spotify": "https://open.spotify.com/track/2awNGIJHodfLZSClB3PYhz",
+      "length": 275,
+      "title": "coney island (feat. The National)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "The National"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Aaron Dessner",
+          "Bryce Dessner",
+          "William Bowery"
+        ],
+        "others": [],
+        "producers": [
+          "Aaron Dessner",
+          "Bryce Dessner"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Coney%20Island%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-coney-island-lyrics"
+    },
+    "A PLACE IN THIS WORLD": {
+      "albums": ["Taylor Swift"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1161666000,
+      "spotify": "https://open.spotify.com/track/73OX8GdpOeGzKC6OvGSbsv",
+      "length": 199,
+      "is_single": false,
+      "title": "A Place in this World",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-a-place-in-this-world-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "I DID SOMETHING BAD": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ",
+      "length": 238,
+      "title": "I Did Something Bad",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/I%20Did%20Something%20Bad",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-i-did-something-bad-lyrics"
+    },
+    "TODAY WAS A FAIRYTALE": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/2JoJrsEV15OzbijS47lids",
+      "length": 241,
+      "title": "Today Was A Fairytale",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Nathan Chapman"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Today%20Was%20a%20Fairytale",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-today-was-a-fairytale-taylors-version-lyrics"
+    },
+    "CRUEL SUMMER": {
+      "albums": ["Lover"],
+      "notes": [],
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr",
+      "length": 178,
+      "title": "Cruel Summer",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Jack Antonoff",
+          "St. Vincent"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Cruel%20Summer%20(Taylor%20Swift%20song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-cruel-summer-lyrics"
+    },
+    "PARIS": {
+      "albums": ["Midnights (3am Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1666414800,
+      "spotify": "https://open.spotify.com/track/7712gjoih4QoDbXpljEk21",
+      "length": 196,
+      "is_single": false,
+      "title": "Paris",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-paris-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "NOTHING NEW FROM THE VAULT": {
+      "albums": ["Red"],
+      "notes": [],
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Phoebe Bridgers"
+        ],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B",
+      "length": 258,
+      "is_single": false,
+      "title": "Nothing New (feat. Phoebe Bridgers) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-nothing-new-taylors-version-from-the-vault-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "DRESS": {
+      "albums": ["reputation"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/6oVxXO5oQ4pTpO8RSnkzvv",
+      "length": 230,
+      "is_single": false,
+      "title": "Dress",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-dress-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "END GAME": {
+      "albums": ["reputation"],
+      "notes": [],
+      "release": 1510290000,
+      "spotify": "https://open.spotify.com/track/2x0WlnmfG39ZuDmstl9xfX",
+      "length": 244,
+      "title": "End Game",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": [
+          "Taylor Swift",
+          "Ed Sheeran",
+          "Future"
+        ],
+        "writers": [
+          "Taylor Swift",
+          "Max Martin",
+          "Shellback",
+          "Ed Sheeran",
+          "Future"
+        ],
+        "others": [],
+        "producers": [
+          "Max Martin",
+          "Shellback"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/End%20Game%20(song)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-end-game-lyrics"
+    },
+    "BETTER THAN REVENGE": {
+      "albums": ["Speak Now"],
+      "notes": [],
+      "release": 1688706000,
+      "spotify": "https://open.spotify.com/track/0NwGC0v03ysCYINtg6ns58",
+      "length": 220,
+      "title": "Better Than Revenge",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": ["Taylor Swift"],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Nathan Chapman"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Better%20than%20Revenge",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-better-than-revenge-taylors-version-lyrics"
+    },
+    "THE OTHER SIDE OF THE DOOR": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/1cSFlSBdpT4F5vb1frQ231",
+      "length": 238,
+      "is_single": false,
+      "title": "The Other Side Of The Door",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-the-other-side-of-the-door-taylors-version-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "CLEAN": {
+      "albums": ["1989 (Deluxe Edition)"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1414386000,
+      "spotify": "https://open.spotify.com/track/4bXCcoesMt8u99xMsbLr9U",
+      "length": 271,
+      "is_single": false,
+      "title": "Clean",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-clean-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    },
+    "FEARLESS": {
+      "albums": ["Fearless"],
+      "notes": [],
+      "release": 1617944400,
+      "spotify": "https://open.spotify.com/track/77sMIMlNaSURUAXq5coCxE",
+      "length": 241,
+      "title": "Fearless",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/Fearless%20(Taylor's%20Version)",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-fearless-taylors-version-lyrics"
+    },
+    "ALL TOO WELL": {
+      "albums": ["Red"],
+      "notes": [],
+      "release": 1636693200,
+      "spotify": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi",
+      "length": 613,
+      "title": "All Too Well (10 Minute Version) (From The Vault)",
+      "paragraphs": {"count": 0},
+      "see_also": [],
+      "non_tv_release": 0,
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [
+          "Taylor Swift",
+          "Liz Rose"
+        ],
+        "others": [],
+        "producers": [
+          "Taylor Swift",
+          "Jack Antonoff"
+        ]
+      },
+      "wikipedia": "https://en.wikipedia.org/wiki/All%20Too%20Well",
+      "is_single": false,
+      "lyrics": "https://genius.com/Taylor-swift-all-too-well-taylors-version-lyrics"
+    },
+    "I FORGOT THAT YOU EXISTED": {
+      "albums": ["Lover"],
+      "notes": [],
+      "credits": {
+        "singers": ["Taylor Swift"],
+        "writers": [],
+        "others": [],
+        "producers": []
+      },
+      "release": 1566536400,
+      "spotify": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN",
+      "length": 170,
+      "is_single": false,
+      "title": "I Forgot That You Existed",
+      "paragraphs": {"count": 0},
+      "lyrics": "https://genius.com/Taylor-swift-i-forgot-that-you-existed-lyrics",
+      "see_also": [],
+      "non_tv_release": 0
+    }
+  }
