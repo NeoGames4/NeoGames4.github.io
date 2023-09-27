@@ -1,55 +1,25 @@
 {
     "spotlight": {
         "l": {
-			"title": "A Swiftie",
-			"url": "https://www.neogames4.github.io",
+			"title": "tayapp13",
+			"url": "https://www.instagram.com/tayapp13/",
 			"icon": "INSTAGRAM",
+			"avatar_url": "https://i.imgur.com/Ag2SbD2.png",
 			"foreground": 4294967295,
 			"background": 4293608862
 		},
         "m": {
-			"title": "Swifties On Discord",
-			"url": "https://www.discord.com",
-			"avatar_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWwYEqLXCYFty4YYS67LAjSXaxquJi3ePfg&usqp=CAU",
+			"title": "r/TaylorSwift",
+			"url": "https://discord.gg/taylorswift",
 			"icon": "DISCORD",
 			"foreground": 4294967295,
 			"background": 4283983346
 		},
         "r": {
-			"title": "Swiftly",
-			"url": "https://www.google.com"
+			"title": "Could Be You",
+			"url": "https://www.forms.gle/jfUYMF6cdFB93nNe9"
 		}
     },
-    "highly_recommended": [
-		{
-			"title": "r/TaylorSwift",
-			"url": "https://www.discord.com",
-			"avatar_url": "https://m.faz.net/media0/ppmedia/aktuell/feuilleton/1995728416/1.9042106/mmobject-still_full/taylor-swift-waehrend-eines.jpg",
-			"icon": "DISCORD",
-			"foreground": 4294967295,
-			"background": 4283983346
-		},
-		{
-			"title": "Taylor Nation",
-			"url": "https://www.taylorswift.com",
-			"foreground": 4294967295,
-			"background": 4284113283
-		}
-	],
-    "featured_swifties": [
-		{
-			"title": "Swiftier",
-			"url": "https://www.google.com",
-			"icon": "DISCORD",
-			"foreground": 4279111958,
-			"background": 4288078223
-		},
-		{
-			"title": "The Swift Collective",
-			"url": "https://www.google.com",
-			"icon": "DISCORD",
-			"foreground": 4279111958,
-			"background": 4289713659
-		}
-	]
+    "highly_recommended": [],
+    "featured_swifties": []
 }
